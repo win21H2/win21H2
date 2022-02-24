@@ -1,19 +1,25 @@
-👋Hi there, I go by the screen name 324Hz and any code that I develop goes under that name so refer to me as 324Hz not win_21H2 :)
+👋Hi there, I go by the screen name 324Hz and any code that I develop goes under that name.
 
-Frontend dev for my own website learning backend stuff <br>
+Frontend dev for the website for Project Silent Willow<br>
 USA <br>
 he/him <br>
+> refer to either of my screen-names: 324Hz or win21H2
 
-"haha NO" - 324Hz/win21H2
+Languages I am most fluent in: <br>
+> C++ (Arduino) <br>
+> HTML <br>
+> CSS <br>
+> JS (Although I still have to learn some more things) <br>
 
 Some things I am currently working on:
 
 - Project Silent Willow: <br>
-// Image recognition w/ Jupyter labs and Nvidia Jetson nanos <br>
-// LiDAR mapping w/ ROS/RPLiDAR and Nvidia Jetson nanos <br>
-// Serial communications via USB (<b> Nvidia Jetson nanos to Arduino boards </b>) <br>
-// ESP32 communications with Heroku and Project Silent Willow <br>
-// Controling stepper motors with ESP32's and a Bluetooth Terminal application
+- Image recognition w/ Jupyter labs and Nvidia Jetson nanos <br>
+- LiDAR mapping w/ ROS/RPLiDAR and Nvidia Jetson nanos <br>
+- Serial communications via USB (<b> Nvidia Jetson nanos to Arduino boards </b>) <br>
+- ESP32 communications with Heroku and Project Silent Willow <br>
+- Controling stepper motors with ESP32's and a Bluetooth Terminal application <br>
+- A website for Project Silent Willow (Psst here: https://project-silent-willow.netlify.app)
 
 The two Jetsons that I used with my projects below :) <br>
 
