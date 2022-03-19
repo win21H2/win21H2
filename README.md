@@ -3,7 +3,6 @@
 Frontend dev for the website for Project Silent Willow<br>
 USA <br>
 he/him <br>
-> refer to either of my screen-names: 324Hz or win21H2
 
 Languages I am most fluent in: <br>
 > C++ (Arduino) <br>
