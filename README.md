@@ -1,21 +1,18 @@
-👋Hi there, I go by the screen name 324Hz and any code that I develop goes under that name.
+Hello there!
 
-Frontend dev for the website for Project Silent Willow<br>
-USA <br>
-he/him <br>
+What I do: Front/Back end dev'ing <br>
+Where I come from: USA <br>
+Pronouns: he/him <br>
+Favorite languages: (as seen in my repos) C++, HTML, CSS, and JS <br>
+Other languages I use: Python <br>
+Boards I have used: Nvidia Jetson Nano, Arduino, Raspberry pi, Lattepanda, Google Coral <br>
+Coins that I mine: Ethereum, ERGO, Ravencoin <br>
+Samsung or Apple: Samsung/Android (mainly because of the developers options you can mess around with hah!) <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=win21H2)](https://github.com/win21H2/github-readme-stats)
+Projects I have worked on:
+> Project Silent Willow <br>
+> Jetson Nano image recognition/regression
 
-Some things I am currently working on:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=win21H2&show_icons=true&theme=city_lights)
 
-- Project Silent Willow: <br>
-- Image recognition w/ Jupyter labs and Nvidia Jetson nanos <br>
-- LiDAR mapping w/ ROS/RPLiDAR and Nvidia Jetson nanos <br>
-- Serial communications via USB (<b> Nvidia Jetson nanos to Arduino boards </b>) <br>
-- ESP32 communications with Heroku and Project Silent Willow <br>
-- Controling stepper motors with ESP32's and a Bluetooth Terminal application <br>
-- A website for Project Silent Willow (Psst here: https://project-silent-willow.netlify.app)
-
-The two Jetsons that I used with my projects below :) <br>
-
-![image](https://user-images.githubusercontent.com/92825997/154865353-7d7306b5-ce05-443d-8f5a-f3db6f43751b.png)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=win21H2)
