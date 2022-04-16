@@ -4,11 +4,7 @@ Frontend dev for the website for Project Silent Willow<br>
 USA <br>
 he/him <br>
 
-Languages I am most fluent in: <br>
-> C++ (Arduino) <br>
-> HTML <br>
-> CSS <br>
-> JS (Although I still have to learn some more things) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=win21H2)](https://github.com/win21H2/github-readme-stats)
 
 Some things I am currently working on:
 
