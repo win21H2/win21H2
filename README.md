@@ -5,9 +5,8 @@ Country of origin: USA <br>
 Pronouns: he/him <br>
 Samsung or Apple: Samsung/Android (mainly because of the developers options you can mess around with hah!) <br>
 
-Projects I have/am worked/working on:
-> Project Silent Willow <br>
-> Jetson Nano image recognition
+Project/s I have/am worked/working on:
+> [Nvidia Jetson Nano image recognition](https://github.com/win21H2/Image-Recognition)<br>
 
 <details>
 <summary>Boards I have/are used/using</summary>
