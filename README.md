@@ -39,6 +39,8 @@ SBCs<br>
  - CSS<br>
  - JS<br>
  - PHP<br>
+ - C#<br>
+ - XAML<br>
 </details>
 
 <details>
