@@ -69,6 +69,8 @@ Designing/CAD/CAM<br>
 
 ![324Hz's GitHub stats](https://github-readme-stats.vercel.app/api?username=win21H2&show_icons=true&theme=city_lights)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=win21H2&layout=compact&theme=city_lights)](https://github.com/win21H2/github-readme-stats)
+
 Badges
 
 <a href="https://app.daily.dev/324Hz"><img src="https://api.daily.dev/devcards/c812f902cb8d4a9d8bf40a51589dcd59.png?r=ed0" width="200" alt="324Hz's Dev Card"/></a>
