@@ -7,6 +7,7 @@ Samsung or Apple: Samsung/Android (mainly because of the developers options you 
 
 Project/s I have/am worked/working on:
 > [Nvidia Jetson Nano image recognition](https://github.com/win21H2/Image-Recognition)<br>
+> [324Hz](https://github.com/win21H2/324Hz)<br>
 
 <details>
 <summary>Boards I have/are used/using</summary>
