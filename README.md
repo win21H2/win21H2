@@ -71,6 +71,10 @@ Designing/CAD/CAM<br>
 ![324Hz's GitHub stats](https://github-readme-stats.vercel.app/api?username=win21H2&show_icons=true&theme=city_lights)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=win21H2&layout=compact&theme=city_lights)](https://github.com/win21H2/github-readme-stats)
+<br>
+<br>
+Website build status @ https://324hz.dev<br>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2f3ab70c-6803-4d12-ab9d-41ec7f7b4f62/deploy-status)](https://app.netlify.com/sites/324hz/deploys)
 
 Badges
 
