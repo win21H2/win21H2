@@ -75,6 +75,12 @@ Designing/CAD/CAM<br>
 <br>
 Website build status @ https://324hz.dev<br>
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2f3ab70c-6803-4d12-ab9d-41ec7f7b4f62/deploy-status)](https://app.netlify.com/sites/324hz/deploys)
+<br>
+<br>
+Website build status @ https://324-lines-of-code.netlify.app<br>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7a280d62-181a-4b67-8f79-8e34cd28456a/deploy-status)](https://app.netlify.com/sites/324-lines-of-code/deploys)
+<br>
+<br>
 
 Badges
 
