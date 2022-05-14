@@ -3,7 +3,7 @@ Hello there!
 What I do: Front/Back end dev'ing/AI development/Arduino board programming & testing <br>
 Country of origin: USA <br>
 Pronouns: he/him <br>
-Samsung or Apple: Samsung/Android (mainly because of the developers options you can mess around with hah!) <br>
+Actual gender: male <br>
 
 Project/s I have/am worked/working on:
 > [Nvidia Jetson Nano image recognition](https://github.com/win21H2/Image-Recognition)<br>
