@@ -6,7 +6,7 @@ Pronouns: he/him <br>
 
 Project/s I have/am worked/working on:
 > [Nvidia Jetson Nano image recognition](https://github.com/win21H2/Image-Recognition)<br>
-> [324Hz](https://github.com/win21H2/324Hz)<br>
+> [txt](https://github.com/win21H2/txt)<br>
 
 <details>
 <summary>Boards I have/are used/using</summary>
