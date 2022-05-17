@@ -2,11 +2,17 @@ Hello there!
 
 What I do: Fullstack development/AI development/Arduino board programming & testing <br>
 Country of origin: USA <br>
-Pronouns: he/him <br>
+Pronouns: he/him
+<br>
+<br>
+I have no clue how to spread out my commits which is why I will probably have a lot of commits 😄
+<br>
+<br>
 
 Project/s I have/am worked/working on:
-> [Nvidia Jetson Nano image recognition](https://github.com/win21H2/Image-Recognition)<br>
 > [txt](https://github.com/win21H2/txt)<br>
+> [Nvidia Jetson Nano image recognition](https://github.com/win21H2/Image-Recognition)<br>
+> [C02/PM2.5/Temperature sensor project](https://github.com/win21H2/c02pm2.5tmp-sensor)<br>
 
 Website build status @ https://324hz.dev<br>
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2f3ab70c-6803-4d12-ab9d-41ec7f7b4f62/deploy-status)](https://app.netlify.com/sites/324hz/deploys)
