@@ -19,8 +19,34 @@ Website build status @ https://324hz.dev<br>
 
 Website build status @ https://324-lines-of-code.netlify.app<br>
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7a280d62-181a-4b67-8f79-8e34cd28456a/deploy-status)](https://app.netlify.com/sites/324-lines-of-code/deploys)
-<br><br>
+<br>
 
+<details>
+ <summary>Workspace</summary>
+<img src="https://img.shields.io/badge/samsung%20laptop-1428A0?style=for-the-badge&logo=Samsung&logoColor=white" /><br>
+ </details>
+ 
+ <details>
+ <summary>Browser</summary>
+<img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white"><br>
+ </details>
+ 
+  <details>
+ <summary>Terminal</summary>
+<img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"><br>
+<img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"><br>
+ </details>
+ 
+  <details>
+ <summary>Social</summary>
+<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"><br>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"><br>
+ </details>
+ 
+ <br>
+ <br>
 <details>
 <summary>Boards I have/are used/using</summary>
 <br>
@@ -79,8 +105,6 @@ Designing/CAD/CAM<br>
  - Vernier Graphical Analysys<br>
  - Ultimaker Cura<br>
 </details>
-
-![324Hz's GitHub stats](https://github-readme-stats.vercel.app/api?username=win21H2&show_icons=true&theme=city_lights)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=win21H2&layout=compact&theme=city_lights)](https://github.com/win21H2/github-readme-stats)
 <br>
