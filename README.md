@@ -12,7 +12,8 @@ I have no clue how to spread out my commits which is why I will probably have a 
 Project/s I have/am worked/working on:
 > [txt](https://github.com/win21H2/txt)<br>
 > [Nvidia Jetson Nano image recognition](https://github.com/win21H2/Image-Recognition)<br>
-> [C02/PM2.5/Temperature sensor project](https://github.com/win21H2/c02pm2.5tmp-sensor)<br>
+<br>
+<br>
 
 Website build status @ https://324hz.dev<br>
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2f3ab70c-6803-4d12-ab9d-41ec7f7b4f62/deploy-status)](https://app.netlify.com/sites/324hz/deploys)
@@ -130,8 +131,7 @@ Designing/CAD/CAM<br>
  - Vernier Graphical Analysys<br>
  - Ultimaker Cura<br>
 </details>
-<br>
-<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=win21H2&layout=compact&theme=city_lights)](https://github.com/win21H2/github-readme-stats)
 <br>
 <br>
