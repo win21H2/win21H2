@@ -5,28 +5,20 @@ Country of origin: USA <br>
 Pronouns: he/him
 <br>
 <br>
-I have no clue how to spread out my commits which is why I will probably have a lot of commits 😄
+I have no clue how to spread out/time my commits which is why there are soo many commits on some days 😄
 <br>
 <br>
 
-Project/s I have/am worked/working on:
+Projects I am working on (currently):
 > [txt](https://github.com/win21H2/txt)<br>
 > [Nvidia Jetson Nano image recognition](https://github.com/win21H2/Image-Recognition)<br>
 <br>
 <br>
 
-Website build status @ https://324hz.dev<br>
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2f3ab70c-6803-4d12-ab9d-41ec7f7b4f62/deploy-status)](https://app.netlify.com/sites/324hz/deploys)
-
-Website build status @ https://324-lines-of-code.netlify.app<br>
-[![Netlify Status](https://api.netlify.com/api/v1/badges/7a280d62-181a-4b67-8f79-8e34cd28456a/deploy-status)](https://app.netlify.com/sites/324-lines-of-code/deploys)
-<br><br><br>
-
 Some more about me <br>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
 
 Browser<br>
 <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">
@@ -86,9 +78,7 @@ Cloud platforms<br>
 <br>
 Artificial intelegence<br>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-
- <br>
- <br>
+<br>
 
 <details>
 <summary>Boards I have/are used/using</summary>
@@ -137,7 +127,4 @@ Designing/CAD/CAM<br>
  - Ultimaker Cura<br>
 </details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=win21H2&layout=compact&theme=city_lights)](https://github.com/win21H2/github-readme-stats)
-<br>
-<br>
 <a href="https://app.daily.dev/324Hz"><img src="https://api.daily.dev/devcards/c812f902cb8d4a9d8bf40a51589dcd59.png?r=ed0" width="200" alt="324Hz's Dev Card"/></a>
