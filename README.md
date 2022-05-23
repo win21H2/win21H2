@@ -85,6 +85,7 @@ Artificial intelegence<br>
 
  <br>
  <br>
+
 <details>
 <summary>Boards I have/are used/using</summary>
 <br>
