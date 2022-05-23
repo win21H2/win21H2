@@ -24,6 +24,10 @@ Website build status @ https://324-lines-of-code.netlify.app<br>
 
 Some more about me <br>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 Browser<br>
 <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">
 <img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white">
