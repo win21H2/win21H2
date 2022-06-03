@@ -1,6 +1,6 @@
 Hello there!
 
-What I do: Fullstack development/AI development/Arduino board programming & testing <br>
+What I do: Fullstack development/AI development/Arduino board programming/testing/prototyping <br>
 Country of origin: USA <br>
 Pronouns: he/him
 <br>
