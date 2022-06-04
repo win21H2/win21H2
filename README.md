@@ -12,6 +12,7 @@ I have no clue how to spread out/time my commits which is why there are soo many
 Projects I am working on (currently):
 > [txt](https://github.com/win21H2/txt)<br>
 > [Nvidia Jetson Nano image recognition](https://github.com/win21H2/Image-Recognition)<br>
+> [auth0](https://github.com/win21H2/auth0)<br>
 <br>
 <br>
 
