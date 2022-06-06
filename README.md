@@ -12,7 +12,6 @@ I have no clue how to spread out/time my commits which is why there are soo many
 Projects I am working on (currently):
 > [txt](https://github.com/win21H2/txt) [![wakatime](https://wakatime.com/badge/github/win21H2/txt.svg)](https://wakatime.com/badge/github/win21H2/txt)<br>
 > [Nvidia Jetson Nano image recognition](https://github.com/win21H2/Image-Recognition) [![wakatime](https://wakatime.com/badge/github/win21H2/Image-Recognition-win21H2.svg)](https://wakatime.com/badge/github/win21H2/Image-Recognition-win21H2)<br>
-> [auth0](https://github.com/win21H2/auth0) [![wakatime](https://wakatime.com/badge/github/win21H2/auth0.svg)](https://wakatime.com/badge/github/win21H2/auth0)<br>
 <br>
 <br>
 
