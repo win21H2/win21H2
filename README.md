@@ -1,4 +1,4 @@
-Hello there!
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DCDDDE&lines=Hello+there;Welcome+to+my+Github+README+page;)
 
 What I do: Fullstack development/AI development/Arduino board programming/testing/prototyping <br>
 Country of origin: USA <br>
