@@ -16,6 +16,7 @@ Projects I am working on (currently):
 > [Nvidia Jetson Nano image recognition](https://github.com/win21H2/Image-Recognition) [![wakatime](https://wakatime.com/badge/github/win21H2/Image-Recognition-win21H2.svg)](https://wakatime.com/badge/github/win21H2/Image-Recognition-win21H2)<br>
 > [hash-mining](https://github.com/win21H2/hash-mining) [![wakatime](https://wakatime.com/badge/user/442684cb-8763-435b-86af-725b49d2094b/project/c4d2a2ca-8d98-4970-be34-763bffb69b0d.svg)](https://wakatime.com/badge/user/442684cb-8763-435b-86af-725b49d2094b/project/c4d2a2ca-8d98-4970-be34-763bffb69b0d)<br>
 <br>
+There are about 7 other projects that I have not listed here due to security related things that I am also working on.
 <br>
 
 Some more about me <br>
