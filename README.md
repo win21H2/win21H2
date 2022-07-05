@@ -15,8 +15,6 @@ Projects I am working on (currently):
 > [txt](https://github.com/win21H2/txt) [![wakatime](https://wakatime.com/badge/github/win21H2/txt.svg)](https://wakatime.com/badge/github/win21H2/txt)<br>
 > [Nvidia Jetson Nano image recognition](https://github.com/win21H2/Image-Recognition) [![wakatime](https://wakatime.com/badge/github/win21H2/Image-Recognition-win21H2.svg)](https://wakatime.com/badge/github/win21H2/Image-Recognition-win21H2)<br>
 > [hash-mining](https://github.com/win21H2/hash-mining) [![wakatime](https://wakatime.com/badge/user/442684cb-8763-435b-86af-725b49d2094b/project/c4d2a2ca-8d98-4970-be34-763bffb69b0d.svg)](https://wakatime.com/badge/user/442684cb-8763-435b-86af-725b49d2094b/project/c4d2a2ca-8d98-4970-be34-763bffb69b0d)<br>
-> [simple-json-display](https://github.com/win21H2/simple-json-display)<br>
-> [simple-crypto-dashboard](https://github.com/win21H2/simple-crypto-dashboard)<br>
 <br>
 <br>
 
