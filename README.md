@@ -1,4 +1,7 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DCDDDE&lines=Hello+there;Welcome+to+my+Github+README+page;)
+
+# win21H2/324Hz</h3>
+
+
 
 What I do: Fullstack development/AI development/Arduino board programming/testing/prototyping <br>
 Country of origin: USA <br>
@@ -8,13 +11,8 @@ Pronouns: he/him
 I have no clue how to spread out/time my commits which is why there are soo many commits on some days 😄
 <br>
 <br>
-Also I think I am overdosing on ReactJS apps :)
-<br>
-<br>
-Projects I am working on (currently):
-> [txt](https://github.com/win21H2/txt) [![wakatime](https://wakatime.com/badge/github/win21H2/txt.svg)](https://wakatime.com/badge/github/win21H2/txt)<br>
-> [Nvidia Jetson Nano image recognition](https://github.com/win21H2/Image-Recognition) [![wakatime](https://wakatime.com/badge/github/win21H2/Image-Recognition-win21H2.svg)](https://wakatime.com/badge/github/win21H2/Image-Recognition-win21H2)<br>
-> [hash-mining](https://github.com/win21H2/hash-mining) [![wakatime](https://wakatime.com/badge/user/442684cb-8763-435b-86af-725b49d2094b/project/c4d2a2ca-8d98-4970-be34-763bffb69b0d.svg)](https://wakatime.com/badge/user/442684cb-8763-435b-86af-725b49d2094b/project/c4d2a2ca-8d98-4970-be34-763bffb69b0d)<br>
+> txt [![wakatime](https://wakatime.com/badge/github/win21H2/txt.svg)](https://wakatime.com/badge/github/win21H2/txt)<br>
+> Nvidia Jetson Nano image recognition [![wakatime](https://wakatime.com/badge/github/win21H2/Image-Recognition-win21H2.svg)](https://wakatime.com/badge/github/win21H2/Image-Recognition-win21H2)<br>
 <br>
 There are about 7 other projects that I have not listed here due to security related things that I am also working on.
 <br>
