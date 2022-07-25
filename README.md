@@ -1,8 +1,6 @@
 
 # win21H2/324Hz</h3>
 
-
-
 What I do: Fullstack development/AI development/Arduino board programming/testing/prototyping <br>
 Country of origin: USA <br>
 Pronouns: he/him
@@ -10,20 +8,8 @@ Pronouns: he/him
 <br>
 I have no clue how to spread out/time my commits which is why there are soo many commits on some days 😄
 <br>
-<br>
-> txt [![wakatime](https://wakatime.com/badge/github/win21H2/txt.svg)](https://wakatime.com/badge/github/win21H2/txt)<br>
-> Nvidia Jetson Nano image recognition [![wakatime](https://wakatime.com/badge/github/win21H2/Image-Recognition-win21H2.svg)](https://wakatime.com/badge/github/win21H2/Image-Recognition-win21H2)<br>
-<br>
-There are about 7 other projects that I have not listed here due to security related things that I am also working on.
-<br>
-
 Some more about me <br>
 
-Socials<br>
-<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
-<br>
 Prototyping platforms<br>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
 <img src="https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white">
@@ -46,8 +32,6 @@ Languages<br>
 <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
 <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <br>
 IDEs<br>
@@ -69,6 +53,7 @@ Cloud platforms<br>
 <br>
 Artificial intelegence<br>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
 <br>
 
 <details>
@@ -117,5 +102,3 @@ Designing/CAD/CAM<br>
  - Vernier Graphical Analysys<br>
  - Ultimaker Cura<br>
 </details>
-
-<a href="https://app.daily.dev/324Hz"><img src="https://api.daily.dev/devcards/c812f902cb8d4a9d8bf40a51589dcd59.png?r=ed0" width="200" alt="324Hz's Dev Card"/></a>
