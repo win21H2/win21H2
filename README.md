@@ -1,11 +1,10 @@
 
 # win21H2/324Hz</h3>
 
-What I do: Fullstack development/AI development/Arduino board programming/testing/prototyping <br>
-Country of origin: USA <br>
-Pronouns: he/him<br>
+👋 Howdy there, I am a (almost) fully self-taught fullstack & Android application developer from the US who is not only a hardworking student, but also trying to become a developer to make tools for the future generation!<br>
+Twitter account: @win21H2 & currently have 50 followers!<br>
 Proud to be a part of the Github Global Campus<br><br>
-#fitdevs EMI!! and #100DaysOfCode
+#fitdevs #EMI!! and #100DaysOfCode
 <br>
 <br>
 I have no clue how to spread out/time my commits which is why there are soo many commits on some days 😄
