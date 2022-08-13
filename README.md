@@ -1,7 +1,7 @@
 
 # win21H2/324Hz</h3>
 
-👋 Howdy there, I am a (almost) fully self-taught fullstack & Android application developer from the US who is not only a hardworking student, but also trying to become a developer to make tools for the future generation!<br>
+👋 Howdy there, I am a (almost) fully self-taught fullstack & Android application developer from the US. I am also a hardworking student starting highschool this year!<br>
 Twitter account: @win21H2 & currently have 50 followers!<br>
 Proud to be a part of the Github Global Campus<br><br>
 #fitdevs #EMI!! and #100DaysOfCode
