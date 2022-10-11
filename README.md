@@ -5,6 +5,17 @@
 Proud to be a part of the Github Global Campus<br><br>
 #fitdevs #EMI!! and #100DaysOfCode
 <br>
+#### View some of my most recent collections:
+##### my-x-details
+<a href="https://github.com/win21H2/my-phone-details">my-phone-details</a><br>
+<a href="https://github.com/win21H2/my-computer-details/tree/master">my-computer-details</a>
+##### Project Silent Willow
+<a href="https://github.com/win21H2/Project-Silent-Willow">Project-Silent-Willow</a><br>
+<a href="https://github.com/win21H2/Project-Silent-Willow-Main-Application---Mobile">Project-Silent-Willow-Main-Application---Mobile</a><br>
+<a href="https://github.com/win21H2/Project-Silent-Willow-Main-Application---Desktop">Project-Silent-Willow-Main-Application---Desktop</a><br>
+<a href="https://github.com/win21H2/Image-Recognition-win21H2">Image-Recognition-win21H2*</a><br>
+*This repository is deprecated and the contents are moving to <a href="https://github.com/win21H2/Project-Silent-Willow">Project-Silent-Willow</a><br>
+<br>
 <br>
 I have no clue how to spread out/time my commits which is why there are soo many commits on some days 😄
 <br>
