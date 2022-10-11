@@ -12,6 +12,7 @@ Proud to be a part of the Github Global Campus<br><br>
 ##### Project Silent Willow
 <a href="https://github.com/win21H2/Project-Silent-Willow">Project-Silent-Willow</a><br>
 <a href="https://github.com/win21H2/Project-Silent-Willow-Main-Application---Mobile">Project-Silent-Willow-Main-Application---Mobile</a><br>
+<a href="https://github.com/win21H2/Project-Silent-Willow-Main-Application---WearOS">Project-Silent-Willow-Main-Application---WearOS</a>
 <a href="https://github.com/win21H2/Project-Silent-Willow-Main-Application---Desktop">Project-Silent-Willow-Main-Application---Desktop</a><br>
 <a href="https://github.com/win21H2/Image-Recognition-win21H2">Image-Recognition-win21H2*</a><br>
 *This repository is deprecated and the contents are moving to <a href="https://github.com/win21H2/Project-Silent-Willow">Project-Silent-Willow</a><br>
