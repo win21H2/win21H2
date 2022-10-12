@@ -10,21 +10,26 @@ Developer socials<br>
 <a href="https://g.dev/324hz">g.dev</a><br>
 <a href="https://www.linkedin.com/in/mark-pushisnky/">LinkedIn</a><br>
 <a href="https://twitter.com/win21H2">Twitter</a><br><br>
-Google dev groups<br>
+A part of the following dev groups<br>
 <a href="https://groups.google.com/a/chromium.org/g/blink-dev">blink-dev</a><br>
-<a href="https://groups.google.com/a/chromium.org/g/chromium-html5">Chromium HTML5</a><Br>
-<a href="https://groups.google.com/g/lint-dev">lint-dev</a>
+<a href="https://groups.google.com/a/chromium.org/g/chromium-html5">Chromium HTML5</a><br>
+<a href="https://groups.google.com/g/lint-dev">lint-dev</a><br>
+<a href="https://groups.google.com/a/chromium.org/g/android-webview-dev">android-webview-dev</a> - (I spend most of my time here)<br>
+<a href="https://groups.google.com/a/chromium.org/g/chromium-dev">Chromium-dev</a><br>
+<a href="https://groups.google.com/a/chromium.org/g/security-dev">security-dev</a><br>
+<a href="https://groups.google.com/a/chromium.org/g/pwa-dev">pwa-dev</a> - (I spend most of my time here)<br>
 
 TRUST small UAS pilot certificate holder<br>
 
 #### View some of my most recent project collections below ⬇️
 ##### my-x-details
 <a href="https://github.com/win21H2/my-phone-details">my-phone-details</a><br>
-<a href="https://github.com/win21H2/my-computer-details/tree/master">my-computer-details</a>
+<a href="https://github.com/win21H2/my-computer-details/tree/master">my-computer-details-cli</a><br>
+<a href="">my-computer-details-application</a>
 ##### Project Silent Willow
 <a href="https://github.com/win21H2/Project-Silent-Willow">Project-Silent-Willow</a><br>
 <a href="https://github.com/win21H2/Project-Silent-Willow-Main-Application---Mobile">Project-Silent-Willow-Main-Application---Mobile</a><br>
-<a href="https://github.com/win21H2/Project-Silent-Willow-Main-Application---Desktop">Project-Silent-Willow-Main-Application---Desktop</a><br>
+<a href="https://github.com/win21H2/Project-Silent-Willow-Main-Application---Desktop-CLI">Project-Silent-Willow-Main-Application---Desktop</a><br>
 <a href="https://github.com/win21H2/Image-Recognition-win21H2">Image-Recognition-win21H2*</a><br>
 <h6>*This repository is deprecated and the contents are moving to <a href="https://github.com/win21H2/Project-Silent-Willow">Project-Silent-Willow</a></h6><br>
 <details>
