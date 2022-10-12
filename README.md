@@ -24,8 +24,8 @@ TRUST small UAS pilot certificate holder<br>
 #### View some of my most recent project collections below ⬇️
 ##### my-x-details
 <a href="https://github.com/win21H2/my-phone-details">my-phone-details</a><br>
-<a href="https://github.com/win21H2/my-computer-details/tree/master">my-computer-details-cli</a><br>
-<a href="">my-computer-details-application</a>
+<a href="https://github.com/win21H2/my-computer-details-cli">my-computer-details-cli</a><br>
+<a href="#">my-computer-details-application</a>
 ##### Project Silent Willow
 <a href="https://github.com/win21H2/Project-Silent-Willow">Project-Silent-Willow</a><br>
 <a href="https://github.com/win21H2/Project-Silent-Willow-Main-Application---Mobile">Project-Silent-Willow-Main-Application---Mobile</a><br>
