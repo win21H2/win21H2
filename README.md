@@ -1,11 +1,23 @@
 
-# win21H2/324Hz</h3>
+# win21H2/324Hz
 
-👋 Howdy there, I am a fully self-taught fullstack & Android application developer from the US. I am also a hardworking student and I am in highschool now!<br>
-Proud to be a part of the Github Global Campus<br><br>
-#fitdevs #EMI!! and #100DaysOfCode
-<br>
-#### View some of my most recent collections:
+Howdy, I am Mark and am a self-taught fullstack, Android application, and Windows UWP application developer from the US. Also aspiring to become an electrical engineer.<br>
+Involved with Github Global Campus<br>
+<a href="https://github.com/FitDevs-withKat">#FitDevs</a><br><br>
+Developer socials<br>
+<a href="https://stackoverflow.com/users/19235706/324hz">Stack overflow</a><br>
+<a href="https://iot.stackexchange.com/users/17149/324hz">Internet of Things</a><br>
+<a href="https://g.dev/324hz">g.dev</a><br>
+<a href="https://www.linkedin.com/in/mark-pushisnky/">LinkedIn</a><br>
+<a href="https://twitter.com/win21H2">Twitter</a><br><br>
+Google dev groups<br>
+<a href="https://groups.google.com/a/chromium.org/g/blink-dev">blink-dev</a><br>
+<a href="https://groups.google.com/a/chromium.org/g/chromium-html5">Chromium HTML5</a><Br>
+<a href="https://groups.google.com/g/lint-dev">lint-dev</a>
+
+TRUST small UAS pilot certificate holder<br>
+
+#### View some of my most recent project collections below ⬇️
 ##### my-x-details
 <a href="https://github.com/win21H2/my-phone-details">my-phone-details</a><br>
 <a href="https://github.com/win21H2/my-computer-details/tree/master">my-computer-details</a>
@@ -14,61 +26,9 @@ Proud to be a part of the Github Global Campus<br><br>
 <a href="https://github.com/win21H2/Project-Silent-Willow-Main-Application---Mobile">Project-Silent-Willow-Main-Application---Mobile</a><br>
 <a href="https://github.com/win21H2/Project-Silent-Willow-Main-Application---Desktop">Project-Silent-Willow-Main-Application---Desktop</a><br>
 <a href="https://github.com/win21H2/Image-Recognition-win21H2">Image-Recognition-win21H2*</a><br>
-*This repository is deprecated and the contents are moving to <a href="https://github.com/win21H2/Project-Silent-Willow">Project-Silent-Willow</a><br>
-<br>
-<br>
-I have no clue how to spread out/time my commits which is why there are soo many commits on some days 😄
-<br>
-Some more about me <br>
-
-Prototyping platforms<br>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
-<img src="https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white">
-<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white">
-<img src="https://img.shields.io/badge/adafruit-000000?style=for-the-badge&logo=adafruit&logoColor=white">
-<br>
-OSes<br>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-<img src="https://img.shields.io/badge/-Wear%20OS-4285F4?style=for-the-badge&logo=wear-os&logoColor=white">
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-<br>
-Languages<br>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
-<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<br>
-IDEs<br>
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
-<img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
-<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-<br>
-Frameworks<br>
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
-<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
-<br>
-Cloud platforms<br>
-<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
-<br>
-Artificial intelegence<br>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
-<br>
-
+<h6>*This repository is deprecated and the contents are moving to <a href="https://github.com/win21H2/Project-Silent-Willow">Project-Silent-Willow</a></h6><br>
 <details>
-<summary>Boards I have/are used/using</summary>
+<summary>Prototyping boards toolbelt</summary>
 <br>
 AI:<br>
  - Nvidia Jetson Nano<br>
@@ -91,7 +51,7 @@ SBCs<br>
 </details>
 
 <details>
-<summary>Software I have/are used/using</summary>
+<summary>Software toolbelt</summary>
 <br>
 Code Development
  - Visual Studio 2022<br>
@@ -105,6 +65,7 @@ Code Development
  - Docker Desktop<br>
  - WatchFaceStudio<br>
 Designing/CAD/CAM<br>
+ - OpenSim<br>
  - Fusion 360<br>
  - Blender<br>
  - Structural Bridge Design 2022 (Autodesk)<br>
