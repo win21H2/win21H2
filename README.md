@@ -32,6 +32,8 @@ TRUST small UAS pilot certificate holder<br>
 <a href="https://github.com/win21H2/Project-Silent-Willow-Main-Application---Desktop-CLI">Project-Silent-Willow-Main-Application---Desktop</a><br>
 <a href="https://github.com/win21H2/Image-Recognition-win21H2">Image-Recognition-win21H2*</a><br>
 <h6>*This repository is deprecated and the contents are moving to <a href="https://github.com/win21H2/Project-Silent-Willow">Project-Silent-Willow</a></h6><br>
+##### VS Code extensions
+<a href="https://github.com/win21H2/docs-list">docs-list</a>
 <details>
 <summary>Prototyping boards toolbelt</summary>
 <br>
