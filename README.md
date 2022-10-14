@@ -1,8 +1,14 @@
+<kbd>
+<img src="https://user-images.githubusercontent.com/92825997/195734410-8a57c97d-9d49-481c-938c-fb8c0f5ebe7f.png" width="100"/>
+<img src="https://user-images.githubusercontent.com/92825997/195734469-fd73b7ff-951a-4095-b59a-99b692a2a8ba.png" width="100"/>
+<img src="https://user-images.githubusercontent.com/92825997/195734501-5d8fcb99-fd95-46bd-987f-cd71f425e52b.png" width="100"/>
+<img src="https://user-images.githubusercontent.com/92825997/195734762-18306410-3cf0-4153-b9c6-b396fca55c2c.png" width="100"/>
 
-# win21H2/324Hz
-
+<br>
+<br>
+<br>
 Howdy, I am Mark and am a self-taught fullstack, Android application, and Windows UWP application developer from the US. Also aspiring to become an electrical engineer.<br>
-Involved with Github Global Campus<br>
+Involved with Github Global Campus<br><br>
 <a href="https://github.com/FitDevs-withKat">#FitDevs</a><br><br>
 Developer socials<br>
 <a href="https://stackoverflow.com/users/19235706/324hz">Stack overflow</a><br>
@@ -31,9 +37,12 @@ TRUST small UAS pilot certificate holder<br>
 <a href="https://github.com/win21H2/Project-Silent-Willow-Main-Application---Mobile">Project-Silent-Willow-Main-Application---Mobile</a><br>
 <a href="https://github.com/win21H2/Project-Silent-Willow-Main-Application---Desktop-CLI">Project-Silent-Willow-Main-Application---Desktop</a><br>
 <a href="https://github.com/win21H2/Image-Recognition-win21H2">Image-Recognition-win21H2*</a><br>
-<h6>*This repository is deprecated and the contents are moving to <a href="https://github.com/win21H2/Project-Silent-Willow">Project-Silent-Willow</a></h6><br>
+<h6>*This repository is deprecated and the contents are moving to <a href="https://github.com/win21H2/Project-Silent-Willow">Project-Silent-Willow</a></h6>
+
 ##### VS Code extensions
 <a href="https://github.com/win21H2/docs-list">docs-list</a>
+
+
 <details>
 <summary>Prototyping boards toolbelt</summary>
 <br>
