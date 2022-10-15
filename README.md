@@ -1,17 +1,16 @@
 <kbd>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/92825997/195734469-fd73b7ff-951a-4095-b59a-99b692a2a8ba.png" width="100"/>
-<img src="https://user-images.githubusercontent.com/92825997/195959084-73009829-edb1-43ca-9915-270fc7d75103.png" width="100"/>
-<img src="https://user-images.githubusercontent.com/92825997/195734501-5d8fcb99-fd95-46bd-987f-cd71f425e52b.png" width="100"/>
-<img src="https://user-images.githubusercontent.com/92825997/195959293-a02e7dca-014f-4de7-9bd7-32200005276c.png" width="100"/>
+<a href="https://324hz.dev/"><img src="https://user-images.githubusercontent.com/92825997/195960427-6c16477d-bbc7-4f28-a264-0e2614266c49.png" width="150"/></a><br><br>
+<a href="https://github.com/stars/win21H2/lists/my-x-details"><img src="https://user-images.githubusercontent.com/92825997/195734469-fd73b7ff-951a-4095-b59a-99b692a2a8ba.png" width="150"/></a>
+<a href="https://github.com/win21H2/todo-syntax"><img src="https://user-images.githubusercontent.com/92825997/195959084-73009829-edb1-43ca-9915-270fc7d75103.png" width="150"/></a>
+<a href="https://github.com/stars/win21H2/lists/project-silent-willow"><img src="https://user-images.githubusercontent.com/92825997/195734501-5d8fcb99-fd95-46bd-987f-cd71f425e52b.png" width="150"/></a>
+<a href="https://github.com/FitDevs-withKat"><img src="https://user-images.githubusercontent.com/92825997/195959293-a02e7dca-014f-4de7-9bd7-32200005276c.png" width="150"/></a>
 </p>
-<p align="center">Logos of some of the projects I am working on<br><br>From left to right: <a href="https://github.com/stars/win21H2/lists/my-x-details">my-x-details</a>, <a href="https://github.com/win21H2/todo-syntax">todo-syntax</a>, <a href="https://github.com/stars/win21H2/lists/project-silent-willow">Project Silent Willow</a>, <a href="https://github.com/FitDevs-withKat">#FitDevs</a><br><br></p>
+<p align="center">From left to right: <a href="https://github.com/stars/win21H2/lists/my-x-details">my-x-details</a>, <a href="https://github.com/win21H2/todo-syntax">todo-syntax</a>, <a href="https://github.com/stars/win21H2/lists/project-silent-willow">Project Silent Willow</a>, <a href="https://github.com/FitDevs-withKat">#FitDevs</a><br><br></p>
 <br>
 <br>
 <br>
-Howdy, I am Mark and am a self-taught fullstack, Android application, and Windows UWP application developer from the US. Also aspiring to become an electrical engineer.<br>
-Involved with Github Global Campus<br><br><br>
-
+Howdy, I am Mark and am a self-taught fullstack, Android application, and Windows UWP application developer from the US. Also aspiring to become an electrical engineer.<br><br><br><br>
 
 Socials<br><br>
 <a href="https://stackoverflow.com/users/19235706/324hz">Stack overflow</a><br><br>
