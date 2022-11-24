@@ -21,13 +21,13 @@ Socials<br><br>
 
 
 A part of the following dev groups<br><br>
-<a href="https://groups.google.com/a/chromium.org/g/blink-dev">blink-dev</a><br><br>
+<a href="https://groups.google.com/a/chromium.org/g/blink-dev">blink-dev</a> - (I spend most of my time here)<br><br>
 <a href="https://groups.google.com/a/chromium.org/g/chromium-html5">Chromium HTML5</a><br><br>
 <a href="https://groups.google.com/g/lint-dev">lint-dev</a><br><br>
 <a href="https://groups.google.com/a/chromium.org/g/android-webview-dev">android-webview-dev</a> - (I spend most of my time here)<br><br>
 <a href="https://groups.google.com/a/chromium.org/g/chromium-dev">Chromium-dev</a><br><br>
 <a href="https://groups.google.com/a/chromium.org/g/security-dev">security-dev</a><br><br>
-<a href="https://groups.google.com/a/chromium.org/g/pwa-dev">pwa-dev</a> - (I spend most of my time here)<br><br><br>
+<a href="https://groups.google.com/a/chromium.org/g/pwa-dev">pwa-dev</a><br><br><br>
 
 TRUST small UAS pilot certificate holder<br><br><br>
 
@@ -43,7 +43,7 @@ TRUST small UAS pilot certificate holder<br><br><br>
 <a href="https://github.com/win21H2/Project-Silent-Willow-Main-Application---Mobile">Project-Silent-Willow-Main-Application---Mobile</a><br><br>
 <a href="https://github.com/win21H2/Project-Silent-Willow-Main-Application---Desktop-CLI">Project-Silent-Willow-Main-Application---Desktop</a><br><br>
 <a href="https://github.com/win21H2/Image-Recognition-win21H2">Image-Recognition-win21H2*</a><br><br>
-*This repository is deprecated and the contents are moving to <a href="https://github.com/win21H2/Project-Silent-Willow">Project-Silent-Willow</a>
+*This repository is deprecated and its contents are moving to <a href="https://github.com/win21H2/Project-Silent-Willow">Project-Silent-Willow</a>
 
 <br><br><br>
 <details>
@@ -59,12 +59,11 @@ DIY/Development<br>
  - Arduino Pro Micro<br><br>
  - Arduino Mega 2560<br><br>
  - Arduino Leonardo<br><br>
+ - Raspberry pi Zero 2W<br><br>
 Wifi Enabled<br>
  - ESP32 devkitC<br><br>
  - ESP32 Camera Module<br><br>
 SBCs<br>
- - Raspberry pi Pico<br><br>
- - Raspberry pi Zero 2W<br><br>
  - Lattepanda Alpha (I forgot the model number)<br><br>
  - Intel Edison<br><br>
 </details>
@@ -84,6 +83,7 @@ Code Development<br>
  - Docker Desktop<br><br>
  - WatchFaceStudio<br><br>
 Designing/CAD/CAM<br>
+ - LTspice XVII<br><br>
  - KiCAD<br><br>
  - OpenSim<br><br>
  - Fusion 360<br><br>
@@ -93,4 +93,6 @@ Designing/CAD/CAM<br>
  - 2D Design<br><br>
  - Vernier Graphical Analysys<br><br>
  - Ultimaker Cura<br><br>
+Others<br>
+ - Desmos<br><br>
 </details>
