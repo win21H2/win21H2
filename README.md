@@ -10,7 +10,13 @@
 <br>
 <br>
 Howdy, I am Mark and am a self-taught fullstack, Android application, and Windows UWP application developer from the US. Also aspiring to become an electrical engineer.<br><br><br><br>
-Certified Nvidia Jetson AI specialist
+ <p align="center">Certified Nvidia Jetson AI specialist</p><br>
+<p align="center">
+ <img width="400" src="https://user-images.githubusercontent.com/92825997/204044652-38141b92-9a75-4ddd-9f7b-7e64c8ee3cb5.png">
+ <img width="390" src="https://user-images.githubusercontent.com/92825997/204045385-13006241-5e5b-416b-b88e-8da46f258d59.png">
+</p>
+
+
 <br><br>
 Socials<br><br>
 <a href="https://stackoverflow.com/users/19235706/324hz">Stack overflow</a><br><br>
