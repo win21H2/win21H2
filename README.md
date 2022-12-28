@@ -78,7 +78,7 @@ SBCs<br>
  - Lattepanda Alpha (I forgot the model number)<br><br>
  - Intel Edison<br><br>
 </details>
-
+ 
 <details>
 <summary>Software knowledge</summary>
 <br>
@@ -106,4 +106,18 @@ Designing/CAD/CAM<br>
  - Ultimaker Cura<br><br>
 Others<br>
  - Desmos<br><br>
+</details>
+
+<details>
+<summary>Science knowledge (and what I am currently studying)</summary>
+<br>
+Chemistry<br>
+ - Stoichiometry<br><br>
+ - Quantum mechanics (and spfd orbitals)<br><br>
+ - Balancing REDOX equations<br><br>
+Physics<br>
+ - Simple harmonic motion<br><br>
+ - Quantum field theory<br><br>
+ - The Standard Model<br><br>
+ - Quantum electrodynamics<br><br>
 </details>
