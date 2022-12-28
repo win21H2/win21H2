@@ -14,7 +14,7 @@
 <br>
 <br>
 <br>
-Howdy, I am Mark and am a self-taught fullstack, Android application, and Windows UWP application developer from the US. Also aspiring to become an electrical engineer.<br><br><br><br>
+Howdy, I am Mark and am a self-taught fullstack, Android application, and Windows UWP application developer from the US. Currently learning about quantum field theory (QFT) and am planning to take part in the USNCO exam<br><br><br><br>
  <p align="center">Certified Nvidia Jetson AI specialist</p><br>
 <p align="center">
  <img width="400" src="https://user-images.githubusercontent.com/92825997/204044652-38141b92-9a75-4ddd-9f7b-7e64c8ee3cb5.png">
