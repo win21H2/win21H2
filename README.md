@@ -7,7 +7,7 @@
 <a href="https://github.com/Syknapse/Contribute-To-This-Project"><img src="https://user-images.githubusercontent.com/92825997/204109240-d9d86bce-d1f5-4f24-b4fb-363a7ed6c089.png" width="150"/></a>
 
 </p>
-<p align="center">From left to right: <a href="https://github.com/stars/win21H2/lists/my-x-details">my-x-details</a>,
+<p align="center">From left to right (bottom row): <a href="https://github.com/stars/win21H2/lists/my-x-details">my-x-details</a>,
  <a href="https://github.com/stars/win21H2/lists/project-silent-willow">Project Silent Willow</a>,
  <a href="https://github.com/FitDevs-withKat">#FitDevs</a>, 
  <a href="https://github.com/Syknapse/Contribute-To-This-Project">Contribute-To-This-Project</a><br><br></p>
@@ -18,7 +18,6 @@ Howdy, I am Mark and am a self-taught fullstack, Android application, and Window
  <p align="center">Certified Nvidia Jetson AI specialist</p><br>
 <p align="center">
  <img width="400" src="https://user-images.githubusercontent.com/92825997/204044652-38141b92-9a75-4ddd-9f7b-7e64c8ee3cb5.png">
- <img width="390" src="https://user-images.githubusercontent.com/92825997/204045385-13006241-5e5b-416b-b88e-8da46f258d59.png">
 </p>
 
 
