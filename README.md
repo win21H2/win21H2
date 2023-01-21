@@ -2,7 +2,7 @@
 <p align="center">
 <br/><br/>
 <a align="center" href="https://324hz.dev">324hz.dev</a><br/><br/><br/><br/>
-<a href="https://324hz.dev/"><img src="https://avatars.githubusercontent.com/u/92825997?v=4" width="150"/></a><br><br>
+<a href="https://324hz.dev/"><img src="https://avatars.githubusercontent.com/u/92825997?v=4](https://user-images.githubusercontent.com/92825997/213838045-1aa2944b-5dc5-4b90-84b8-4690de5261b8.png" width="150"/></a><br><br>
 <a href="https://github.com/stars/win21H2/lists/my-x-details"><img src="https://user-images.githubusercontent.com/92825997/195734469-fd73b7ff-951a-4095-b59a-99b692a2a8ba.png" width="150"/></a>
 <a href="https://github.com/stars/win21H2/lists/project-silent-willow"><img src="https://user-images.githubusercontent.com/92825997/195734501-5d8fcb99-fd95-46bd-987f-cd71f425e52b.png" width="150"/></a>
 <a href="https://github.com/FitDevs-withKat"><img src="https://user-images.githubusercontent.com/92825997/195959293-a02e7dca-014f-4de7-9bd7-32200005276c.png" width="150"/></a>
@@ -17,6 +17,8 @@
 <br>
 <br>
 Howdy, I am Mark and am a self-taught fullstack, Android application, and Windows UWP application developer from the US. Currently learning about quantum field theory (QFT), Hermite Polynomials, and am planning to take part in one of the USNCO exams<br><br><br><br>
+ Did you know?
+ My profile picture is a Desmos graph of the first 10 Hermite Polynomials! (quantum mechanics stuff :))<br><br><br><br>
  <p align="center">Certified Nvidia Jetson AI specialist</p><br>
 <p align="center">
  <img width="400" src="https://user-images.githubusercontent.com/92825997/204044652-38141b92-9a75-4ddd-9f7b-7e64c8ee3cb5.png">
