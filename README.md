@@ -16,7 +16,7 @@
 <br>
 <br>
 <br>
-Howdy, I am Mark and am a self-taught fullstack, Android application, and Windows UWP application developer from the US. Currently learning about quantum field theory (QFT), Hermite Polynomials, and am planning to take part in one of the USNCO exams<br><br><br><br>
+Howdy, I'm Mark and am a self-taught fullstack, Android application, and Windows UWP application developer from the US. I also happen to be a Quantum Physics and Quantum Mechanics enthusiast learning about stuff related to IB HL Physics and Chemistry! (I'm wayyy to young to learn about it but 🤷)<br><br><br><br>
  Did you know?
  My profile picture is a Desmos graph of the first 10 Hermite Polynomials! (quantum mechanics stuff :))<br><br><br><br>
  <p align="center">Certified Nvidia Jetson AI specialist</p><br>
