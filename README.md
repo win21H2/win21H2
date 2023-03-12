@@ -17,12 +17,8 @@
 <br>
 <br>
 Howdy, I'm Mark and am a self-taught fullstack, Android application, and Windows UWP application developer from the US. I also happen to be a Quantum Physics and Quantum Mechanics enthusiast learning about stuff related to IB HL Physics and Chemistry! (I'm wayyy to young to learn about it but 🤷)<br><br><br><br>
- Did you know?
- My profile picture is a Desmos graph of the first 10 Hermite Polynomials! (quantum mechanics stuff :))<br><br><br><br>
- <p align="center">Certified Nvidia Jetson AI specialist</p><br>
-<p align="center">
- <img width="400" src="https://user-images.githubusercontent.com/92825997/204044652-38141b92-9a75-4ddd-9f7b-7e64c8ee3cb5.png">
-</p>
+<br><br>
+ <p align="center">Certified Nvidia Jetson AI specialist<br><br>TRUST small UAS pilot certificate holder</p><br>
 
 <br><br>
 Socials<br><br>
@@ -42,7 +38,7 @@ A part of the following dev groups<br><br>
 <a href="https://groups.google.com/a/chromium.org/g/security-dev">security-dev</a><br><br>
 <a href="https://groups.google.com/a/chromium.org/g/pwa-dev">pwa-dev</a><br><br><br>
 
-TRUST small UAS pilot certificate holder<br><br><br>
+<br><br><br>
 
 #### View some of my most recent project collections below ⬇️
 ##### my-x-details
