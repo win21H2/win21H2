@@ -58,6 +58,10 @@ Howdy! I'm Mark and I'm a Windows and Android application developer from the US 
 ### LineTracker
  - Repositories to be made public (release date: TBD)
 
+### Pizza Cutter Handle Redesign
+ - <a href="">Pizza Cutter Handle Redesign</a>
+      LINK TO PDF IN REPOSITORY
+
 ## Experiences
 <details>
 <summary><b>Prototyping board experience</b></summary>
@@ -78,7 +82,7 @@ Howdy! I'm Mark and I'm a Windows and Android application developer from the US 
 
 <details>
 <summary><b>Software experience</b></summary>
-
+  
  - Visual Studio 2022
  - Visual Studio 2022 (Preview)
  - Visual Studio Code (Insiders)
