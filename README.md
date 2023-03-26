@@ -1,17 +1,21 @@
 <p align="center">
   <a align="center" href="https://324hz.dev">324hz.dev</a><br/><br/>
-  <a href="https://324hz.dev/"><img src="https://avatars.githubusercontent.com/u/92825997?v=4](https://user-images.githubusercontent.com/92825997/213838045-1aa2944b-5dc5-4b90-84b8-4690de5261b8.png" width="150"/></a></kbd><br><br>
+  <a href="https://324hz.dev/"><img src="https://avatars.githubusercontent.com/u/92825997?v=4](https://user-images.githubusercontent.com/92825997/213838045-1aa2944b-5dc5-4b90-84b8-4690de5261b8.png" width="150"/></a><br><br><br>
   <a href="https://github.com/stars/win21H2/lists/project-silent-willow"><img src="https://user-images.githubusercontent.com/92825997/195734501-5d8fcb99-fd95-46bd-987f-cd71f425e52b.png" width="150"/></a>
+  <a href="https://github.com/win21H2/my-computer-details-cli"><img src="https://user-images.githubusercontent.com/92825997/227761229-162307ff-8130-4981-9e2f-09eb19f069fd.png" width="150"/></a>
+  <a href="https://github.com/win21H2/LineTracker-Android"><img src="https://user-images.githubusercontent.com/92825997/227760896-074940be-aa30-44db-ac13-11a4b9432875.png" width="150"/></a>
+  <br>from left to right:
+    <a href="https://github.com/stars/win21H2/lists/project-silent-willow">Project Silent Willow</a>,
+    <a href="https://github.com/win21H2/my-computer-details-cli">my-computer-details-cli</a>,
+    <a href="https://github.com/win21H2/LineTracker-Android">LineTracker-Android</a>
+  <br><br><br>
   <a href="https://github.com/FitDevs-withKat"><img src="https://user-images.githubusercontent.com/92825997/195959293-a02e7dca-014f-4de7-9bd7-32200005276c.png" width="150"/></a>
   <a href="https://github.com/Syknapse/Contribute-To-This-Project"><img src="https://user-images.githubusercontent.com/92825997/227754096-bcb46935-fe6f-475b-93d9-0a7f6eae2cae.png" width="150"/></a>
-  <a href="https://github.com/win21H2/LineTracker-Android"><img src="https://user-images.githubusercontent.com/92825997/227760896-074940be-aa30-44db-ac13-11a4b9432875.png" width="150"/></a>
 </p>
 
 <p align="center">from left to right:
- <a href="https://github.com/stars/win21H2/lists/project-silent-willow">Project Silent Willow</a>,
  <a href="https://github.com/FitDevs-withKat">#FitDevs</a>, 
- <a href="https://github.com/Syknapse/Contribute-To-This-Project">Contribute-To-This-Project</a>,
- <a href="https://github.com/win21H2/LineTracker-Android">LineTracker-Android</a>
+ <a href="https://github.com/Syknapse/Contribute-To-This-Project">Contribute-To-This-Project</a>
 </p>
 
 ## About me
@@ -47,7 +51,7 @@ Howdy! I'm Mark and I'm a Windows and Android application developer from the US 
 ## Projects
 ### my-x-details
  - <a href="https://github.com/win21H2/my-computer-details-cli">my-computer-details-cli</a>
- - <a href="#">my-phone-details (REPO COMING SOON!)</a>
+ - my-phone-details (REPO COMING SOON!)
 
 ### Project Silent Willow
  - <a href="https://github.com/win21H2/Project-Silent-Willow">Project-Silent-Willow</a>
@@ -58,7 +62,7 @@ Howdy! I'm Mark and I'm a Windows and Android application developer from the US 
 
 ### LineTracker
  - <a href="https://github.com/win21H2/LineTracker-Android">LineTracker-Android</a>
- - <a href="#">LineTracker-Windows (REPO COMING SOON!)</a>
+ - LineTracker-Windows (REPO COMING SOON!)
 
 ### Pizza Cutter Handle Redesign
  - <a href="https://github.com/win21H2/win21H2/blob/main/The%20Pizza%20Cutter%20Project%20-%20Handle%20Redesign.pdf">Pizza Cutter Handle Redesign</a> (Note: some information was redacted due to privacy reasons)
