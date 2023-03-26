@@ -16,10 +16,8 @@
 <br>
 <br>
 <br>
-Howdy, I'm Mark and am a self-taught fullstack, Android application, and Windows UWP application developer from the US. Currently studying how to interpret Surface Analysis graphs using XPS<br><br><br><br>
 <br><br>
  <p align="center">Certified Nvidia Jetson AI specialist<br><br>TRUST small UAS pilot certificate holder</p><br>
-
 <br><br>
 Socials<br><br>
 <a href="https://stackoverflow.com/users/19235706/324hz">Stack overflow</a><br><br>
