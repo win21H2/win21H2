@@ -59,8 +59,7 @@ Howdy! I'm Mark and I'm a Windows and Android application developer from the US 
  - Repositories to be made public (release date: TBD)
 
 ### Pizza Cutter Handle Redesign
- - <a href="">Pizza Cutter Handle Redesign</a>
-      LINK TO PDF IN REPOSITORY
+ - <a href="https://github.com/win21H2/win21H2/blob/main/The%20Pizza%20Cutter%20Project%20-%20Handle%20Redesign.pdf">Pizza Cutter Handle Redesign</a> (Note: some information was redacted due to privacy reasons)
 
 ## Experiences
 <details>
