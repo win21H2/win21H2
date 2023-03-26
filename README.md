@@ -16,7 +16,7 @@
 <br>
 <br>
 <br>
-Howdy, I'm Mark and am a self-taught fullstack, Android application, and Windows UWP application developer from the US. I also happen to be a Quantum Physics and Quantum Mechanics enthusiast learning about stuff related to IB HL Physics and Chemistry! (I'm wayyy to young to learn about it but 🤷)<br><br><br><br>
+Howdy, I'm Mark and am a self-taught fullstack, Android application, and Windows UWP application developer from the US. Currently studying how to interpret Surface Analysis graphs using XPS<br><br><br><br>
 <br><br>
  <p align="center">Certified Nvidia Jetson AI specialist<br><br>TRUST small UAS pilot certificate holder</p><br>
 
@@ -29,11 +29,13 @@ Socials<br><br>
 <a href="https://twitter.com/win21H2">Twitter</a><br><br>
 
 
-A part of the following dev groups<br><br>
-<a href="https://groups.google.com/a/chromium.org/g/blink-dev">blink-dev</a> - (I spend most of my time here)<br><br>
+A part of the following groups<br><br>
+Internet-time-service (NIST)
+<a href="https://groups.google.com/g/ctadevs">cta developers</a><br><br>
+<a href="https://groups.google.com/a/chromium.org/g/blink-dev">blink-dev</a><br><br>
 <a href="https://groups.google.com/a/chromium.org/g/chromium-html5">Chromium HTML5</a><br><br>
 <a href="https://groups.google.com/g/lint-dev">lint-dev</a><br><br>
-<a href="https://groups.google.com/a/chromium.org/g/android-webview-dev">android-webview-dev</a> - (I spend most of my time here)<br><br>
+<a href="https://groups.google.com/a/chromium.org/g/android-webview-dev">android-webview-dev</a><br><br>
 <a href="https://groups.google.com/a/chromium.org/g/chromium-dev">Chromium-dev</a><br><br>
 <a href="https://groups.google.com/a/chromium.org/g/security-dev">security-dev</a><br><br>
 <a href="https://groups.google.com/a/chromium.org/g/pwa-dev">pwa-dev</a><br><br><br>
