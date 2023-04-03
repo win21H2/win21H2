@@ -4,10 +4,12 @@
   <a href="https://github.com/stars/win21H2/lists/project-silent-willow"><img src="https://user-images.githubusercontent.com/92825997/195734501-5d8fcb99-fd95-46bd-987f-cd71f425e52b.png" width="150"/></a>
   <a href="https://github.com/win21H2/my-computer-details-cli"><img src="https://user-images.githubusercontent.com/92825997/227761229-162307ff-8130-4981-9e2f-09eb19f069fd.png" width="150"/></a>
   <a href="https://github.com/win21H2/LineTracker-Android"><img src="https://user-images.githubusercontent.com/92825997/227760896-074940be-aa30-44db-ac13-11a4b9432875.png" width="150"/></a>
+  <a href="https://github.com/win21H2/LineTracker-Windows"><img src="https://user-images.githubusercontent.com/92825997/227760896-074940be-aa30-44db-ac13-11a4b9432875.png" width="150"/></a>
   <br>from left to right:
-    <a href="https://github.com/stars/win21H2/lists/project-silent-willow">Project Silent Willow</a>,
-    <a href="https://github.com/win21H2/my-computer-details-cli">my-computer-details-cli</a>,
-    <a href="https://github.com/win21H2/LineTracker-Android">LineTracker-Android</a>
+    | <a href="https://github.com/stars/win21H2/lists/project-silent-willow">Project Silent Willow</a> |
+    <a href="https://github.com/win21H2/my-computer-details-cli">my-computer-details-cli</a> |
+    <a href="https://github.com/win21H2/LineTracker-Android">LineTracker-Android</a> |
+    <a href="https://github.com/win21H2/LineTracker-Windows">LineTracker-Windows</a> |
   <br><br><br>
   <a href="https://github.com/FitDevs-withKat"><img src="https://user-images.githubusercontent.com/92825997/195959293-a02e7dca-014f-4de7-9bd7-32200005276c.png" width="150"/></a>
   <a href="https://github.com/Syknapse/Contribute-To-This-Project"><img src="https://user-images.githubusercontent.com/92825997/227754096-bcb46935-fe6f-475b-93d9-0a7f6eae2cae.png" width="150"/></a>
@@ -39,7 +41,7 @@ Howdy! I'm Mark and I'm a Windows and Android application developer from the US 
 </p>
 
 ## Groups
- - Internet-time-service (NIST)<br>
+ - Internet-time-service (ITS @ NIST)<br>
  - CTA Developers<br>
  - blink-dev<br>
  - Chromium HTML5<br>
@@ -62,7 +64,7 @@ Howdy! I'm Mark and I'm a Windows and Android application developer from the US 
 
 ### LineTracker
  - <a href="https://github.com/win21H2/LineTracker-Android">LineTracker-Android</a>
- - LineTracker-Windows (REPO COMING SOON!)
+ - <a href="https://github.com/win21H2/LineTracker-Windows">LineTracker-Windows</a>
 
 ### Pizza Cutter Handle Redesign
  - <a href="https://github.com/win21H2/win21H2/blob/main/The%20Pizza%20Cutter%20Project%20-%20Handle%20Redesign.pdf">Pizza Cutter Handle Redesign</a> (Note: some information was redacted due to privacy reasons)
