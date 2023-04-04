@@ -8,8 +8,9 @@
   <br>From left to right:
     | <a href="https://github.com/stars/win21H2/lists/project-silent-willow">Project Silent Willow</a> |
     <a href="https://github.com/win21H2/my-computer-details-cli">my-computer-details-cli</a> |
-    <a href="https://github.com/win21H2/LineTracker-Android">LineTracker-Android</a> |
-    <a href="https://github.com/win21H2/LineTracker-Windows">LineTracker-Windows</a> |
+    <a href="https://github.com/win21H2/LineTracker-Android">LineTracker-Android*</a> |
+    <a href="https://github.com/win21H2/LineTracker-Windows">LineTracker-Windows*</a> |
+  <br>*⚠️PRIVATE DUE TO SECURITY REASONS
   <br><br><br>
   <a href="https://github.com/FitDevs-withKat"><img src="https://user-images.githubusercontent.com/92825997/195959293-a02e7dca-014f-4de7-9bd7-32200005276c.png" width="150"/></a>
   <a href="https://github.com/Syknapse/Contribute-To-This-Project"><img src="https://user-images.githubusercontent.com/92825997/227754096-bcb46935-fe6f-475b-93d9-0a7f6eae2cae.png" width="150"/></a>
