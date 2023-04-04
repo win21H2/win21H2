@@ -23,7 +23,7 @@
 
 ## About me
 
-Howdy! I'm Mark and I'm a Windows and Android application developer from the US also working on electrical engineering with Arduinos and Nvidia Jetsons! View my most recent projects here: <a href="https://github.com/win21H2/LineTracker-Android">LineTracker-Android</a> and <a href="https://github.com/win21H2/LineTracker-Windows">LineTracker-Windows</a>
+Howdy! I'm Mark and I'm a Windows and Android application developer from the US also working on electrical engineering with Arduinos and Nvidia Jetsons! Currently learning the basics of Azure and Azure Key Vault (storing secrets and retrieving them from a UWP application)
 
 ## Socials
 <p>
