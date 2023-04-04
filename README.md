@@ -26,18 +26,10 @@ Howdy! I'm Mark and I'm a Windows and Android application developer from the US 
 
 ## Socials
 <p>
-<img src="https://user-images.githubusercontent.com/92825997/227754440-635b614d-5d0c-49f4-9262-06cf97353150.png" width=40>
-  <a href="https://stackoverflow.com/users/19235706/324hz"></a>
-</img>
-<img src="https://user-images.githubusercontent.com/92825997/227754451-d57ac443-48fd-49b4-b16c-71ca9b1e3e70.png" width=40>
-  <a href="https://www.linkedin.com/in/mark-pushisnky/"></a>
-</img>
-<img src="https://user-images.githubusercontent.com/92825997/227754428-1c7084c7-57db-4f06-bd47-53bcfc57b2fa.png" width=40>
-  <a href="https://twitter.com/win21H2"></a>
-</img>
-<img src="https://user-images.githubusercontent.com/92825997/227754435-66c890b7-e6a1-4a5c-9b6d-c48d9eb542a2.png" width=40>
-  <a href="https://www.youtube.com/channel/UCIxhTC2VeyZOCZZvmP-zLDg"></a>
-</img>
+  <a href="https://stackoverflow.com/users/19235706/324hz"><img src="https://user-images.githubusercontent.com/92825997/227754440-635b614d-5d0c-49f4-9262-06cf97353150.png" width=40/></a>
+  <a href="https://www.linkedin.com/in/mark-pushinsky/"><img src="https://user-images.githubusercontent.com/92825997/227754451-d57ac443-48fd-49b4-b16c-71ca9b1e3e70.png" width=40/></a>
+  <a href="https://twitter.com/win21H2"><img src="https://user-images.githubusercontent.com/92825997/227754428-1c7084c7-57db-4f06-bd47-53bcfc57b2fa.png" width=40/></a>
+  <a href="https://www.youtube.com/channel/UCIxhTC2VeyZOCZZvmP-zLDg"><img src="https://user-images.githubusercontent.com/92825997/227754435-66c890b7-e6a1-4a5c-9b6d-c48d9eb542a2.png" width=40/></a>
 </p>
 
 ## Groups
