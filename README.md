@@ -5,7 +5,7 @@
   <a href="https://github.com/win21H2/my-computer-details-cli"><img src="https://user-images.githubusercontent.com/92825997/227761229-162307ff-8130-4981-9e2f-09eb19f069fd.png" width="150"/></a>
   <a href="https://github.com/win21H2/LineTracker-Android"><img src="https://user-images.githubusercontent.com/92825997/227760896-074940be-aa30-44db-ac13-11a4b9432875.png" width="150"/></a>
   <a href="https://github.com/win21H2/LineTracker-Windows"><img src="https://user-images.githubusercontent.com/92825997/227760896-074940be-aa30-44db-ac13-11a4b9432875.png" width="150"/></a>
-  <br>from left to right:
+  <br>From left to right:
     | <a href="https://github.com/stars/win21H2/lists/project-silent-willow">Project Silent Willow</a> |
     <a href="https://github.com/win21H2/my-computer-details-cli">my-computer-details-cli</a> |
     <a href="https://github.com/win21H2/LineTracker-Android">LineTracker-Android</a> |
@@ -22,7 +22,7 @@
 
 ## About me
 
-Howdy! I'm Mark and I'm a Windows and Android application developer from the US also working on electrical engineering with Arduinos and Nvidia Jetsons!
+Howdy! I'm Mark and I'm a Windows and Android application developer from the US also working on electrical engineering with Arduinos and Nvidia Jetsons! View my most recent projects here: <a href="https://github.com/win21H2/LineTracker-Android">LineTracker-Android</a> and <a href="https://github.com/win21H2/LineTracker-Windows">LineTracker-Windows</a>
 
 ## Socials
 <p>
