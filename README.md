@@ -60,53 +60,54 @@ Howdy! I'm Mark and I'm a Windows and Android application developer from the US 
  - <a href="https://github.com/win21H2/win21H2/blob/main/The%20Pizza%20Cutter%20Project%20-%20Handle%20Redesign.pdf">Pizza Cutter Handle Redesign</a> (Note: some information was redacted due to privacy reasons)
 
 ## Experiences
+Number of ✅'s denote how confident I am in those selections (3 max)
 <details>
 <summary><b>Prototyping board experience</b></summary>
 
- - Nvidia Jetson Nano
- - Google Coral
- - Arduino Uno/Uno Mini
- - Arduino Pro Mini
- - Arduino Pro Micro
- - Arduino Mega 2560
- - Arduino Leonardo
- - Raspberry pi Zero 2W
- - Raspberry pi Pico
- - ESP32 devkitC
- - Lattepanda Alpha
- - Intel Edison
+ - Nvidia Jetson Nano✅✅✅
+ - Google Coral✅--
+ - Arduino Uno/Uno Mini✅✅✅
+ - Arduino Pro Mini✅✅-
+ - Arduino Pro Micro✅✅-
+ - Arduino Mega 2560✅✅✅
+ - Arduino Leonardo✅✅✅
+ - Raspberry pi Zero 2W✅✅-
+ - Raspberry pi Pico✅✅-
+ - ESP32 devkitC✅--
+ - Lattepanda Alpha✅--
+ - Intel Edison✅--
 </details>
 
 <details>
 <summary><b>Software experience</b></summary>
   
- - Visual Studio 2022
- - Visual Studio 2022 (Preview)
- - Visual Studio Code (Insiders)
- - Android Studio (Beta)
- - GitHub Desktop
- - Arduino IDE (1.8.9 & 2.0.0)
- - Mu Editor
- - Microsoft Power Automate
- - Watch Face Studio
+ - Visual Studio 2022✅✅-
+ - Visual Studio 2022 (Preview)✅✅-
+ - Visual Studio Code (Insiders)✅✅✅
+ - Android Studio (Beta)✅✅-
+ - Windows PowerShell✅✅✅
+ - GitHub Desktop✅✅✅
+ - Arduino IDE (1.8.9 & 2.0.0)✅✅✅
+ - Mu Editor✅✅✅
+ - Watch Face Studio✅✅✅
 </details>
 
 <details>
 <summary><b>2D/3D CAD/CAM experience</b></summary>
 
  - Ultimaker CURA
- - LTspice XVII
- - KiCAD
- - OpenSim
- - Autodesk Fusion 360
- - Autodesk MoldFlow
- - Autodesk Structural Bridge Design 2022
- - OnShape
- - Blender
- - Flashprint
- - Vernier Graphical Analysis
- - 2D Design
- - SESSA (by NIST)
- - Desmos
- - MoluCAD
+ - LTspice XVII✅--
+ - KiCAD✅--
+ - OpenSim✅--
+ - Autodesk Fusion 360✅✅✅
+ - Autodesk MoldFlow✅✅✅
+ - Autodesk Structural Bridge Design 2022✅--
+ - OnShape✅✅✅
+ - Blender✅--
+ - Flashprint✅✅✅
+ - Vernier Graphical Analysis✅✅✅
+ - 2D Design✅✅✅
+ - SESSA (by NIST)✅--
+ - Desmos✅✅✅
+ - MoluCAD✅✅✅
 </details>
