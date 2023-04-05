@@ -8,9 +8,8 @@
   <br>From left to right:
     | <a href="https://github.com/stars/win21H2/lists/project-silent-willow">Project Silent Willow</a> |
     <a href="https://github.com/win21H2/my-computer-details-cli">my-computer-details-cli</a> |
-    <a href="https://github.com/win21H2/LineTracker-Android">LineTracker-Android*</a> |
-    <a href="https://github.com/win21H2/LineTracker-Windows">LineTracker-Windows*</a> |
-  <br>*⚠️PRIVATE DUE TO SECURITY REASONS
+    <a>LineTracker-Android</a> |
+    <a>LineTracker-Windows</a> |
   <br><br><br>
   <a href="https://github.com/FitDevs-withKat"><img src="https://user-images.githubusercontent.com/92825997/195959293-a02e7dca-014f-4de7-9bd7-32200005276c.png" width="150"/></a>
   <a href="https://github.com/Syknapse/Contribute-To-This-Project"><img src="https://user-images.githubusercontent.com/92825997/227754096-bcb46935-fe6f-475b-93d9-0a7f6eae2cae.png" width="150"/></a>
@@ -37,8 +36,6 @@ Howdy! I'm Mark and I'm a Windows and Android application developer from the US 
  - Internet-time-service (ITS @ NIST)<br>
  - CTA Developers<br>
  - blink-dev<br>
- - Chromium HTML5<br>
- - android-webview-dev<br>
  - Chromium-dev<br>
  - pwa-dev<br>
  - BISCSL-TECH<br>
@@ -56,8 +53,8 @@ Howdy! I'm Mark and I'm a Windows and Android application developer from the US 
 (Note: this repository is deprecated and its contents are moving to <a href="https://github.com/win21H2/Project-Silent-Willow">Project-Silent-Willow</a>)
 
 ### LineTracker
- - <a href="https://github.com/win21H2/LineTracker-Android">LineTracker-Android</a>
- - <a href="https://github.com/win21H2/LineTracker-Windows">LineTracker-Windows</a>
+ - <a>LineTracker-Android</a>
+ - <a>LineTracker-Windows</a>
 
 ### Pizza Cutter Handle Redesign
  - <a href="https://github.com/win21H2/win21H2/blob/main/The%20Pizza%20Cutter%20Project%20-%20Handle%20Redesign.pdf">Pizza Cutter Handle Redesign</a> (Note: some information was redacted due to privacy reasons)
