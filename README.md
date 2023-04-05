@@ -88,14 +88,14 @@ Number of ✅'s denote how confident I am in those selections (3 max)
  - Windows PowerShell✅✅✅
  - GitHub Desktop✅✅✅
  - Arduino IDE (1.8.9 & 2.0.0)✅✅✅
- - Mu Editor✅✅✅
- - Watch Face Studio✅✅✅
+ - Mu Editor✅--
+ - Watch Face Studio✅✅-
 </details>
 
 <details>
 <summary><b>2D/3D CAD/CAM experience</b></summary>
 
- - Ultimaker CURA
+ - Ultimaker CURA✅✅✅
  - LTspice XVII✅--
  - KiCAD✅--
  - OpenSim✅--
