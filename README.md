@@ -56,6 +56,12 @@ Howdy! I'm Mark and I'm a Windows and Android application developer from the US 
  - <a>LineTracker-Android</a> (REPO COMING SOON!)
  - <a>LineTracker-Windows</a> (REPO COMING SOON!)
 
+Preview images
+<p>
+<img width=175 src="https://user-images.githubusercontent.com/92825997/230253913-388bec29-6779-499c-9e34-943965979bd6.png"/>
+<img width=175 src="https://user-images.githubusercontent.com/92825997/230253920-0ee7d526-cb93-4d52-8d92-f6ef4f912ad7.png"/>
+</p>
+
 ### Pizza Cutter Handle Redesign
  - <a href="https://github.com/win21H2/win21H2/blob/main/The%20Pizza%20Cutter%20Project%20-%20Handle%20Redesign.pdf">Pizza Cutter Handle Redesign</a> (Note: some information was redacted due to privacy reasons)
 
