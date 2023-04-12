@@ -33,7 +33,7 @@ Howdy! I'm Mark and I'm a Windows and Android application developer from the US 
 </p>
 
 ## Groups
- - Internet-time-service (ITS @ NIST)<br>
+- Internet-time-service (ITS @ NIST)<br>
  - CTA Developers<br>
  - blink-dev<br>
  - Chromium-dev<br>
@@ -41,21 +41,23 @@ Howdy! I'm Mark and I'm a Windows and Android application developer from the US 
  - BISCSL-TECH<br>
 
 ## Projects
+✅ - completed<br>
+⚠️ - work in progress
+
 ### qubID
- - <a href="https://github.com/win21H2/qubID">qubID</a>
+ - <a href="https://github.com/win21H2/qubID">qubID</a>⚠️
 
 ### my-x-details
- - <a href="https://github.com/win21H2/my-computer-details-cli">my-computer-details-cli</a>
+ - <a href="https://github.com/win21H2/my-computer-details-cli">my-computer-details-cli</a>✅
 
 ### Project Silent Willow
- - <a href="https://github.com/win21H2/Project-Silent-Willow">Project-Silent-Willow</a>
- - <a href="https://github.com/win21H2/Project-Silent-Willow-Main-Application---Mobile">Project-Silent-Willow-Main-Application---Mobile</a>
- - <a href="https://github.com/win21H2/Project-Silent-Willow-Main-Application---Desktop-CLI">Project-Silent-Willow-Main-Application---Desktop</a>
- - <a href="https://github.com/win21H2/Image-Recognition-win21H2">Image-Recognition-win21H2*</a>
+ - <a href="https://github.com/win21H2/Project-Silent-Willow">Project-Silent-Willow</a>✅
+ - <a href="https://github.com/win21H2/Project-Silent-Willow-Main-Application---Mobile">Project-Silent-Willow-Main-Application---Mobile</a>✅
+ - <a href="https://github.com/win21H2/Image-Recognition-win21H2">Image-Recognition-win21H2*</a>✅
 (Note: this repository is deprecated and its contents are moving to <a href="https://github.com/win21H2/Project-Silent-Willow">Project-Silent-Willow</a>)
 
 ### LineTracker
- - <a>LineTracker-Android</a> (REPO COMING SOON!)
+ - <a>LineTracker-Android</a>⚠️ 
 
 Preview images
 <p>
@@ -64,7 +66,7 @@ Preview images
 </p>
 
 ### Pizza Cutter Handle Redesign
- - <a href="https://github.com/win21H2/win21H2/blob/main/The%20Pizza%20Cutter%20Project%20-%20Handle%20Redesign.pdf">Pizza Cutter Handle Redesign</a> (Note: some information was redacted due to privacy reasons)
+ - <a href="https://github.com/win21H2/win21H2/blob/main/The%20Pizza%20Cutter%20Project%20-%20Handle%20Redesign.pdf">Pizza Cutter Handle Redesign</a>✅ (Note: some information was redacted due to privacy reasons)
 
 ## Experiences
 Number of ✅'s denote how confident I am in those selections (3 max)
