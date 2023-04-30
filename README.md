@@ -20,7 +20,8 @@
 
 ## About me
 
-Howdy! I'm Mark and I'm a Windows and Android application developer from the US also working on electrical engineering with Arduinos and Nvidia Jetsons! Currently learning the basics of Azure and Azure Key Vault (storing secrets and retrieving them from a UWP application) and learning how to use the Quantum Developer Kit provided by Microsoft (Q#)!
+Howdy!
+I'm Mark and I'm a Windows and Android application developer from the US also working on electrical engineering with Arduinos and Nvidia Jetsons! Currently working on Phase 4 of Project Silent Willow (PCB creation and testing)!
 
 ## Socials
 <p>
