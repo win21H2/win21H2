@@ -1,6 +1,6 @@
 <p align="center">
   <a align="center" href="https://324hz.dev">324hz.dev</a><br/><br/>
-  <a href="https://324hz.dev/"><img src="https://avatars.githubusercontent.com/u/92825997?v=4](https://user-images.githubusercontent.com/92825997/213838045-1aa2944b-5dc5-4b90-84b8-4690de5261b8.png" width="150"/></a><br><br><br>
+  <a href="https://324hz.dev/"><img src="https://github.com/win21H2/win21H2/assets/92825997/153f5da2-fc9b-4772-a081-6acc426cbf6b" width="150"/></a><br><br><br>
   <a href="https://github.com/stars/win21H2/lists/project-silent-willow"><img src="https://user-images.githubusercontent.com/92825997/195734501-5d8fcb99-fd95-46bd-987f-cd71f425e52b.png" width="150"/></a>
   <a href="https://github.com/win21H2/my-computer-details-cli"><img src="https://user-images.githubusercontent.com/92825997/227761229-162307ff-8130-4981-9e2f-09eb19f069fd.png" width="150"/></a>
   <a><img src="https://user-images.githubusercontent.com/92825997/227760896-074940be-aa30-44db-ac13-11a4b9432875.png" width="150"/></a>
