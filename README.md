@@ -1,13 +1,11 @@
 <p align="center">
-  <a align="center" href="https://324hz.dev">324hz.dev</a><br/><br/>
+  <a align="center" href="https://9662e.dev">9662e.dev</a><br/><br/>
   <a href="https://324hz.dev/"><img src="https://github.com/win21H2/win21H2/assets/92825997/153f5da2-fc9b-4772-a081-6acc426cbf6b" width="150"/></a><br><br><br>
   <a href="https://github.com/stars/win21H2/lists/project-silent-willow"><img src="https://user-images.githubusercontent.com/92825997/195734501-5d8fcb99-fd95-46bd-987f-cd71f425e52b.png" width="150"/></a>
   <a href="https://github.com/win21H2/my-computer-details-cli"><img src="https://user-images.githubusercontent.com/92825997/227761229-162307ff-8130-4981-9e2f-09eb19f069fd.png" width="150"/></a>
-  <a><img src="https://user-images.githubusercontent.com/92825997/227760896-074940be-aa30-44db-ac13-11a4b9432875.png" width="150"/></a>
   <br>From left to right:
     | <a href="https://github.com/stars/win21H2/lists/project-silent-willow">Project Silent Willow</a> |
     <a href="https://github.com/win21H2/my-computer-details-cli">my-computer-details-cli</a> |
-    <a>LineTracker-Android</a> |
   <br><br><br>
   <a href="https://github.com/FitDevs-withKat"><img src="https://user-images.githubusercontent.com/92825997/195959293-a02e7dca-014f-4de7-9bd7-32200005276c.png" width="150"/></a>
   <a href="https://github.com/Syknapse/Contribute-To-This-Project"><img src="https://user-images.githubusercontent.com/92825997/227754096-bcb46935-fe6f-475b-93d9-0a7f6eae2cae.png" width="150"/></a>
@@ -21,7 +19,11 @@
 ## About me
 
 Howdy!
-I'm Mark and I'm a Windows and Android application developer from the US also working on electrical engineering with Arduinos and Nvidia Jetsons! Currently working on Phase 4 of Project Silent Willow (PCB creation and testing)!
+I'm Mark and I'm a Windows and Android application developer from the US also working on electrical engineering with Arduinos and Nvidia Jetsons! Currently working on Phase 4 of Project Silent Willow (PCB creation and testing) as well as developing matteBlack (more information below)!
+
+## matteBlack
+
+matteBlack is an ESP32-based microcontroller unit designed to be slightly more compact compared to the ESP32-devkitC v4 board whilst still providing full functionality. The core of the MCU is designed around an ESP32-S3-WROOM-1 module with plans to integrate a second processor (such as an ATMEGA series chip) to further open up GPIO outputs). I'm currently on the stage where the schematics for the board is done and I'm now working on PCB layout and routing! More info to come.
 
 ## Socials
 <p>
@@ -52,20 +54,14 @@ I'm Mark and I'm a Windows and Android application developer from the US also wo
  - <a href="https://github.com/win21H2/Image-Recognition-win21H2">Image-Recognition-win21H2*</a>✅
 (Note: this repository is deprecated and its contents are moving to <a href="https://github.com/win21H2/Project-Silent-Willow">Project-Silent-Willow</a>)
 
-### LineTracker
- - <a>LineTracker-Android</a>⚠️ 
-
-Preview images
-<p>
-<img width=175 src="https://user-images.githubusercontent.com/92825997/230253913-388bec29-6779-499c-9e34-943965979bd6.png"/>
-<img width=175 src="https://user-images.githubusercontent.com/92825997/230253920-0ee7d526-cb93-4d52-8d92-f6ef4f912ad7.png"/>
-</p>
-
 ### Pizza Cutter Handle Redesign
  - <a href="https://github.com/win21H2/win21H2/blob/main/The%20Pizza%20Cutter%20Project%20-%20Handle%20Redesign.pdf">Pizza Cutter Handle Redesign</a>✅ (Note: some information was redacted due to privacy reasons)
 
+### matteBlack
+ - <a>matteBlack</a>⚠️
+
 ## Experiences
-Number of ✅'s denote how confident I am in those selections (3 max)
+Number of ✅'s denote how confident I am in those selections (3 max). <a href="https://www.9662e.dev">My website</a> has a better ranking system!
 <details>
 <summary><b>Prototyping board experience</b></summary>
 
