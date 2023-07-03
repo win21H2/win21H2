@@ -18,20 +18,18 @@
 
 ## About me
 
-Howdy!
-I'm Mark and I'm a Windows and Android application developer from the US also working on electrical engineering with Arduinos and Nvidia Jetsons! Currently working on Phase 4 of Project Silent Willow (PCB creation and testing) as well as developing matteBlack (more information below)!
+Hi there! I'm Mark, a high school student mainly working ni the field of electrical engineering (specifically hardware design/engineering). Some of the major projects I've worked on include Project Silent Willow, matteBlack, and my-computer-details.
+
+## Project Silent Willow
+
+Project Silent Willow is a mechanum wheel vehicle which means it can drive different directions without having to turn itself. Currently, I've integrated image recognition and I'm planning to integrate the LiDAR sensor that is mounted at the top of the vehicle. Furthermore, one matteBlack is complete, I'm planning to create a PCB which will contain the motor driving circuit (instead of needing an external board for the DRV8825 chip).
 
 ## matteBlack
 
-matteBlack is an ESP32-based microcontroller unit designed to be slightly more compact compared to the ESP32-devkitC v4 board whilst still providing full functionality. The core of the MCU is designed around an ESP32-S3-WROOM-1 module with plans to integrate a second processor (such as an ATMEGA series chip) to further open up GPIO outputs). I'm currently on the stage where the schematics for the board is done and I'm now working on PCB layout and routing! More info to come.
+matteBlack is an ESP32-based microcontroller unit that focuses on functionality over form with two 5V and 3.3V ports instead of the normal 1 5V and 3.3V port. Furthermore, since the ESP32-S3 series chip is being used, it allows for direct USB communication (via GPIO 19 and 20) which might get implemented in the future! It's currently a work-in-progress but will be complete by the end of October (if everything goes smoothly).
 
-## Socials
-<p>
-  <a href="https://stackoverflow.com/users/19235706/324hz"><img src="https://user-images.githubusercontent.com/92825997/227754440-635b614d-5d0c-49f4-9262-06cf97353150.png" width=40/></a>
-  <a href="https://www.linkedin.com/in/mark-pushinsky/"><img src="https://user-images.githubusercontent.com/92825997/227754451-d57ac443-48fd-49b4-b16c-71ca9b1e3e70.png" width=40/></a>
-  <a href="https://twitter.com/win21H2"><img src="https://user-images.githubusercontent.com/92825997/227754428-1c7084c7-57db-4f06-bd47-53bcfc57b2fa.png" width=40/></a>
-  <a href="https://www.youtube.com/channel/UCIxhTC2VeyZOCZZvmP-zLDg"><img src="https://user-images.githubusercontent.com/92825997/227754435-66c890b7-e6a1-4a5c-9b6d-c48d9eb542a2.png" width=40/></a>
-</p>
+<a href="https://stackoverflow.com/users/19235706/324hz"><img src="https://user-images.githubusercontent.com/92825997/227754440-635b614d-5d0c-49f4-9262-06cf97353150.png" width=40/>
+<a href="https://www.youtube.com/channel/UCIxhTC2VeyZOCZZvmP-zLDg"><img src="https://user-images.githubusercontent.com/92825997/227754435-66c890b7-e6a1-4a5c-9b6d-c48d9eb542a2.png" width=40/>
 
 ## Groups
 - Internet-time-service (ITS @ NIST)<br>
@@ -59,56 +57,3 @@ matteBlack is an ESP32-based microcontroller unit designed to be slightly more c
 
 ### matteBlack
  - <a>matteBlack</a>⚠️
-
-## Experiences
-Number of ✅'s denote how confident I am in those selections (3 max). <a href="https://www.9662e.dev">My website</a> has a better ranking system!
-<details>
-<summary><b>Prototyping board experience</b></summary>
-
- - Nvidia Jetson Nano✅✅✅
- - Google Coral✅--
- - Arduino Uno/Uno Mini✅✅✅
- - Arduino Pro Mini✅✅-
- - Arduino Pro Micro✅✅-
- - Arduino Mega 2560✅✅✅
- - Arduino Leonardo✅✅✅
- - Raspberry pi Zero 2W✅✅-
- - Raspberry pi Pico✅✅-
- - ESP32 devkitC✅--
- - Lattepanda Alpha✅--
- - Intel Edison✅--
-</details>
-
-<details>
-<summary><b>Software experience</b></summary>
-  
- - Visual Studio 2022✅✅-
- - Visual Studio 2022 (Preview)✅✅-
- - Visual Studio Code (Insiders)✅✅✅
- - Android Studio (Beta)✅✅-
- - Windows PowerShell✅✅✅
- - GitHub Desktop✅✅✅
- - Arduino IDE (1.8.9 & 2.0.0)✅✅✅
- - Mu Editor✅--
- - Watch Face Studio✅✅-
-</details>
-
-<details>
-<summary><b>2D/3D CAD/CAM experience</b></summary>
-
- - Ultimaker CURA✅✅✅
- - LTspice XVII✅--
- - KiCAD✅--
- - OpenSim✅--
- - Autodesk Fusion 360✅✅✅
- - Autodesk MoldFlow✅✅✅
- - Autodesk Structural Bridge Design 2022✅--
- - OnShape✅✅✅
- - Blender✅--
- - Flashprint✅✅✅
- - Vernier Graphical Analysis✅✅✅
- - 2D Design✅✅✅
- - SESSA (by NIST)✅--
- - Desmos✅✅✅
- - MoluCAD✅✅✅
-</details>
