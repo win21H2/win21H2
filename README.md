@@ -16,6 +16,12 @@
  <a href="https://github.com/Syknapse/Contribute-To-This-Project">Contribute-To-This-Project</a> |
 </p>
 
+<p align="center">
+  <a href="https://stackoverflow.com/users/19235706/324hz"><img src="https://user-images.githubusercontent.com/92825997/227754440-635b614d-5d0c-49f4-9262-06cf97353150.png" width=40/></a>
+  <a href="https://www.youtube.com/channel/UCIxhTC2VeyZOCZZvmP-zLDg"><img src="https://user-images.githubusercontent.com/92825997/227754435-66c890b7-e6a1-4a5c-9b6d-c48d9eb542a2.png" width=40/></a>
+  <a href="https://www.reddit.com/user/324Hz"/><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Reddit.png?raw=true" width=40</a>
+</p>
+
 ## About me
 
 Hi there! I'm Mark, a high school student mainly working ni the field of electrical engineering (specifically hardware design/engineering). Some of the major projects I've worked on include Project Silent Willow, matteBlack, and my-computer-details.
@@ -27,9 +33,6 @@ Project Silent Willow is a mechanum wheel vehicle which means it can drive diffe
 ## matteBlack
 
 matteBlack is an ESP32-based microcontroller unit that focuses on functionality over form with two 5V and 3.3V ports instead of the normal 1 5V and 3.3V port. Furthermore, since the ESP32-S3 series chip is being used, it allows for direct USB communication (via GPIO 19 and 20) which might get implemented in the future! It's currently a work-in-progress but will be complete by the end of October (if everything goes smoothly).
-
-<a href="https://stackoverflow.com/users/19235706/324hz"><img src="https://user-images.githubusercontent.com/92825997/227754440-635b614d-5d0c-49f4-9262-06cf97353150.png" width=40/>
-<a href="https://www.youtube.com/channel/UCIxhTC2VeyZOCZZvmP-zLDg"><img src="https://user-images.githubusercontent.com/92825997/227754435-66c890b7-e6a1-4a5c-9b6d-c48d9eb542a2.png" width=40/>
 
 ## Groups
 - Internet-time-service (ITS @ NIST)<br>
