@@ -24,7 +24,7 @@
 
 ## About me
 
-Hi there! I'm Mark, a high school student mainly working ni the field of electrical engineering (specifically hardware design/engineering). Some of the major projects I've worked on include Project Silent Willow, matteBlack, and my-computer-details.
+Hi there! I'm Mark, a high school student mainly working in the field of electrical engineering (specifically hardware design/engineering). Some of the major projects I've worked on include Project Silent Willow, matteBlack, and my-computer-details.
 
 ## Project Silent Willow
 
