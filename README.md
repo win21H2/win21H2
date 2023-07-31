@@ -30,10 +30,6 @@ Hi there! I'm Mark, a high school student mainly working in the field of electri
 
 Project Silent Willow is a mechanum wheel vehicle which means it can drive different directions without having to turn itself. Currently, I've integrated image recognition and I'm planning to integrate the LiDAR sensor that is mounted at the top of the vehicle. Furthermore, one matteBlack is complete, I'm planning to create a PCB which will contain the motor driving circuit (instead of needing an external board for the DRV8825 chip).
 
-## λ-W1 (formerly known as matteBlack)
-
-λ-W1 is an ESP32-based microcontroller unit that focuses on functionality over form with two 5V and 3.3V ports instead of the normal 1 5V and 3.3V port. Furthermore, since the ESP32-S3 series chip is being used, it allows for direct USB communication (via GPIO 19 and 20) which might get implemented in the future! It's currently a work-in-progress but will be complete by the end of October (if everything goes smoothly). This will eventually turn into a series of microcontrollers known as the λ-series MCUs which will have a combo of a letter and number to signify the type of microcontroller (e.g. W1 = wifi rev1, B1 = base rev1)
-
 ## Groups
 - Internet-time-service (ITS @ NIST)<br>
  - CTA Developers<br>
@@ -57,6 +53,3 @@ Project Silent Willow is a mechanum wheel vehicle which means it can drive diffe
 
 ### Pizza Cutter Handle Redesign
  - <a href="https://github.com/win21H2/win21H2/blob/main/The%20Pizza%20Cutter%20Project%20-%20Handle%20Redesign.pdf">Pizza Cutter Handle Redesign</a>✅ (Note: some information was redacted due to privacy reasons)
-
-### λ-series microcontrollers
- - <a>λ-W1</a>⚠️
