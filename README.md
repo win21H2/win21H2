@@ -26,10 +26,6 @@
 
 Hi there! I'm Mark, a high school student mainly working in the field of electrical engineering (specifically hardware design/engineering). Some of the major projects I've worked on include Project Silent Willow, tau-w (which I'm currently working on), and my-computer-details.
 
-## Project Silent Willow
-
-Project Silent Willow is a mechanum wheel vehicle which means it can drive different directions without having to turn itself. Currently, I've integrated image recognition and I'm planning to integrate the LiDAR sensor that is mounted at the top of the vehicle. Furthermore, one matteBlack is complete, I'm planning to create a PCB which will contain the motor driving circuit (instead of needing an external board for the DRV8825 chip).
-
 ## Groups
 - Internet-time-service (ITS @ NIST)<br>
  - CTA Developers<br>
@@ -47,6 +43,7 @@ Project Silent Willow is a mechanum wheel vehicle which means it can drive diffe
 
 ### Project Silent Willow
  - <a href="https://github.com/win21H2/Project-Silent-Willow">Project-Silent-Willow</a>✅
+ - <a href="https://github.com/win21H2/Project-Silent-Willow-phase-4">Project-Silent-Willow-phase-4</a>⚠️
  - <a href="https://github.com/win21H2/Project-Silent-Willow-Main-Application---Mobile">Project-Silent-Willow-Main-Application---Mobile</a>✅
  - <a href="https://github.com/win21H2/Image-Recognition-win21H2">Image-Recognition-win21H2*</a>✅
 (Note: this repository is deprecated and its contents are moving to <a href="https://github.com/win21H2/Project-Silent-Willow">Project-Silent-Willow</a>)
