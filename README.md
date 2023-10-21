@@ -42,11 +42,11 @@ Hi there! I'm Mark, a high school student mainly focused on electrical engineeri
  - <a href="https://github.com/win21H2/my-computer-details-cli">my-computer-details-cli</a>✅
 
 ### Project Silent Willow
- - <a href="https://github.com/win21H2/Project-Silent-Willow">Project-Silent-Willow</a>✅
- - <a href="https://github.com/win21H2/Project-Silent-Willow-phase-4">Project-Silent-Willow-phase-4</a>⚠️
+ - <a href="https://github.com/win21H2/Project-Silent-Willow">Project-Silent-Willow</a>⚠️
  - <a href="https://github.com/win21H2/Project-Silent-Willow-Main-Application---Mobile">Project-Silent-Willow-Main-Application---Mobile</a>✅
  - <a href="https://github.com/win21H2/Image-Recognition-win21H2">Image-Recognition-win21H2*</a>✅
-(Note: this repository is deprecated and its contents are moving to <a href="https://github.com/win21H2/Project-Silent-Willow">Project-Silent-Willow</a>)
+
+*This repository is deprecated and its contents are moving to <a href="https://github.com/win21H2/Project-Silent-Willow">Project-Silent-Willow</a>
 
 ### Pizza Cutter Handle Redesign
  - <a href="https://github.com/win21H2/win21H2/blob/main/The%20Pizza%20Cutter%20Project%20-%20Handle%20Redesign.pdf">Pizza Cutter Handle Redesign</a>✅ (Note: some information was redacted due to privacy reasons)
