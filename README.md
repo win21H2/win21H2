@@ -24,7 +24,7 @@
 
 ## About me
 
-Hi there! I'm Mark, a high school student mainly working in the field of electrical engineering (specifically hardware design/engineering). Some of the major projects I've worked on include Project Silent Willow, tau-w (which I'm currently working on), and my-computer-details.
+Hi there! I'm Mark, a high school student mainly focused on electrical engineering (and starting to learn about quantum mechanics and computations).
 
 ## Groups
 - Internet-time-service (ITS @ NIST)<br>
