@@ -33,6 +33,8 @@ Hi there! I'm Mark, a high school student mainly focused on electrical engineeri
  - Chromium-dev<br>
  - pwa-dev<br>
  - BISCSL-TECH<br>
+ - Security-dev<br>
+ - MathJax Users<br>
 
 ## Projects
 ✅ - completed<br>
