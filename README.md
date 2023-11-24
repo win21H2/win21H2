@@ -24,7 +24,7 @@
 
 ## About me
 
-Hi there! I'm Mark, a high school student mainly focused on electrical engineering (and starting to learn about quantum mechanics and computations).
+Howdy! I'm Mark, a high school student mainly focused on hadrware design engineering with the development of tau-w and tau-i (and starting to learn about quantum mechanics and computations).
 
 ## Groups
 - Internet-time-service (ITS @ NIST)<br>
@@ -42,6 +42,9 @@ Hi there! I'm Mark, a high school student mainly focused on electrical engineeri
 
 ### my-x-details
  - <a href="https://github.com/win21H2/my-computer-details-cli">my-computer-details-cli</a>✅
+
+### tau series dev boards
+ - <a href="https://9662e.dev/tauseriesdevboards">tau-w and i</a>⚠️
 
 ### Project Silent Willow
  - <a href="https://github.com/win21H2/Project-Silent-Willow">Project-Silent-Willow</a>⚠️
