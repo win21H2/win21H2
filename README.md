@@ -1,9 +1,8 @@
 <p align="center">
   <a align="center" href="https://9662e.dev">9662e.dev</a><br/><br/>
-  <a href="https://324hz.dev/"><img src="https://github.com/win21H2/win21H2/assets/92825997/153f5da2-fc9b-4772-a081-6acc426cbf6b" width="150"/></a><br><br><br>
   <a href="https://github.com/stars/win21H2/lists/project-silent-willow"><img src="https://user-images.githubusercontent.com/92825997/195734501-5d8fcb99-fd95-46bd-987f-cd71f425e52b.png" width="150"/></a>
   <a href="https://github.com/win21H2/my-computer-details-cli"><img src="https://user-images.githubusercontent.com/92825997/227761229-162307ff-8130-4981-9e2f-09eb19f069fd.png" width="150"/></a>
-  <br>From left to right:
+  <br>
     | <a href="https://github.com/stars/win21H2/lists/project-silent-willow">Project Silent Willow</a> |
     <a href="https://github.com/win21H2/my-computer-details-cli">my-computer-details-cli</a> |
   <br><br><br>
@@ -11,7 +10,7 @@
   <a href="https://github.com/Syknapse/Contribute-To-This-Project"><img src="https://user-images.githubusercontent.com/92825997/227754096-bcb46935-fe6f-475b-93d9-0a7f6eae2cae.png" width="150"/></a>
 </p>
 
-<p align="center">From left to right:
+<p align="center">
  | <a href="https://github.com/FitDevs-withKat">#FitDevs</a> |  
  <a href="https://github.com/Syknapse/Contribute-To-This-Project">Contribute-To-This-Project</a> |
 </p>
@@ -24,34 +23,4 @@
 
 ## About me
 
-Howdy! I'm Mark, a high school student mainly focused on hadrware design engineering with the development of tau-w and tau-i (and starting to learn about quantum mechanics and computations).
-
-## Groups
-- Internet-time-service (ITS @ NIST)<br>
- - CTA Developers<br>
- - blink-dev<br>
- - Chromium-dev<br>
- - pwa-dev<br>
- - BISCSL-TECH<br>
- - Security-dev<br>
- - MathJax Users<br>
-
-## Projects
-✅ - completed<br>
-⚠️ - work in progress
-
-### my-x-details
- - <a href="https://github.com/win21H2/my-computer-details-cli">my-computer-details-cli</a>✅
-
-### tau series dev boards
- - <a href="https://9662e.dev/tauseriesdevboards">tau-w and i</a>⚠️
-
-### Project Silent Willow
- - <a href="https://github.com/win21H2/Project-Silent-Willow">Project-Silent-Willow</a>⚠️
- - <a href="https://github.com/win21H2/Project-Silent-Willow-Main-Application---Mobile">Project-Silent-Willow-Main-Application---Mobile</a>✅
- - <a href="https://github.com/win21H2/Image-Recognition-win21H2">Image-Recognition-win21H2*</a>✅
-
-*This repository is deprecated and its contents are moving to <a href="https://github.com/win21H2/Project-Silent-Willow">Project-Silent-Willow</a>
-
-### Pizza Cutter Handle Redesign
- - <a href="https://github.com/win21H2/win21H2/blob/main/The%20Pizza%20Cutter%20Project%20-%20Handle%20Redesign.pdf">Pizza Cutter Handle Redesign</a>✅ (Note: some information was redacted due to privacy reasons)
+Howdy, I'm Mark, a hardware design engineer in-the-making and quantum computations enthusiast! View my most recent website project: <a href="https://9662e.dev/deltabetaarchives">the Δelta βeta αrchives</a>.
