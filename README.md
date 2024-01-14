@@ -21,6 +21,6 @@
   <a href="https://www.reddit.com/user/324Hz"/><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Reddit.png?raw=true" width=40</a>
 </p>
 
-Howdy, I'm Mark, a hardware design engineer in-the-making and quantum computations enthusiast! View my most recent website project: <a href="https://9662e.dev/deltabetaarchives">the Δelta βeta αrchives</a>.
+Howdy, I'm Mark, a hardware design engineer in-the-making and quantum computations enthusiast! View my most recent website project: <a href="https://9662e.dev/deltabetaarchives">the Δelta βeta αrchives</a> and check out purchasing options for my tau embedded systems development boards <a href="https://9662e.dev/tauembeddedsystems">here</a>!
 
 You'll probably find me either: death-staring a quantum computations book, working on tau-i, cycling, or working on a random component related to Project Silent Willow.
