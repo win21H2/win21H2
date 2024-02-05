@@ -1,6 +1,7 @@
 <p align="center">
   <a align="center" href="https://9662e.dev">9662e.dev</a><br/><br/>
-  <a href="https://github.com/stars/win21H2/lists/project-silent-willow"><img src="https://user-images.githubusercontent.com/92825997/195734501-5d8fcb99-fd95-46bd-987f-cd71f425e52b.png" width="150"/></a>
+
+  <a href="https://github.com/stars/win21H2/lists/project-silent-willow"><img src="https://github.com/win21H2/win21H2/assets/92825997/89d1fb3e-6d2d-4fe8-ad59-f6b45a2971ec" width="150"/></a>
   <a href="https://github.com/win21H2/my-computer-details-cli"><img src="https://user-images.githubusercontent.com/92825997/227761229-162307ff-8130-4981-9e2f-09eb19f069fd.png" width="150"/></a>
   <br>
     | <a href="https://github.com/stars/win21H2/lists/project-silent-willow">Project Silent Willow</a> |
