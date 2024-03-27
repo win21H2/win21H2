@@ -22,6 +22,6 @@
 
 Howdy, I'm Mark, a hardware design engineer in-the-making and quantum computations enthusiast! View my most recent website project: <a href="https://9662e.dev/deltabetaarchives">the Δelta βeta αrchives</a> and check out tau embedded systems <a href="https://9662e.dev/tauembeddedsystems">here</a>!
 
-You'll probably find me either: death-staring a quantum computations book, working on a tau embedded systems development board, cycling, or working on a random component related to Project Silent Willow.
+You'll probably find me either: developing Linetracker, working on tau embedded systems, or cycling.
 
 I'm currently developing the second version of Linetracker (which will include updates like a new UI and new methods for displaying train data). The new repository is private for now whilst I'm finding a solution for API key storage but should go online in a few mnoths!
