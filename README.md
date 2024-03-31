@@ -27,8 +27,8 @@
   <a href="https://www.reddit.com/user/324Hz"/><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Reddit.png?raw=true" width=40</a>
 </p>
 
-Howdy, I'm Mark, a hardware design engineer in-the-making and quantum computations enthusiast! View my most recent website project: <a href="https://9662e.dev/deltabetaarchives">the Δelta βeta αrchives</a> and check out tau embedded systems <a href="https://9662e.dev/tauembeddedsystems">here</a>!
+Howdy, I'm Mark, a hardware design engineer in-the-making! I can also fix most electrical systems involving embedded technologies. View my most recent website project: <a href="https://9662e.dev/deltabetaarchives">the Δelta βeta αrchives</a> or check out tau embedded systems <a href="https://9662e.dev/tauembeddedsystems">here</a>!
 
 You'll probably find me either: developing The National Rail Nexus (previously known as 'LineTracker'), working on tau embedded systems, or cycling.
 
-For now, I'm working on updating my website to use Azure for authentication and DB storage, whilst also working on The National Rail Nexus. TNRN will only be publicly availabl eonce I figure out how to store credentials for authentication!
+For now, I'm working on updating my website to use Azure for authentication and DB storage, whilst also working on The National Rail Nexus. TNRN will only be publicly available once I figure out how to store credentials for authentication!
