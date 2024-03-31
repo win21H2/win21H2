@@ -22,6 +22,6 @@
 
 Howdy, I'm Mark, a hardware design engineer in-the-making and quantum computations enthusiast! View my most recent website project: <a href="https://9662e.dev/deltabetaarchives">the Δelta βeta αrchives</a> and check out tau embedded systems <a href="https://9662e.dev/tauembeddedsystems">here</a>!
 
-You'll probably find me either: developing Linetracker, working on tau embedded systems, or cycling.
+You'll probably find me either: developing The National Rail Nexus (previously known as 'LineTracker'), working on tau embedded systems, or cycling.
 
-I'm currently developing the second version of Linetracker (which will include updates like a new UI and new methods for displaying train data). The new repository is private for now whilst I'm finding a solution for API key storage but should go online in a few mnoths!
+For now, I'm working on updating my website to use Azure for authentication and DB storage, whilst also working on The National Rail Nexus. TNRN will only be publicly availabl eonce I figure out how to store credentials for authentication!
