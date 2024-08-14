@@ -32,4 +32,4 @@ Howdy, I'm Mark, a hardware design engineer in-the-making! I generally work on d
 Projects I'm currently working on:
  - The Δelta βeta αrchives
  - CLaE-pc1-web (testing platform for interfacing Clarity AI with Articulate)
- - CLaE-pc1-android (testing platform for interfacing Clarity AI with Articulate)
+ - A free-space optics protocol for controlling vehicles (and hopefully QKD in the future)
