@@ -31,3 +31,5 @@ Howdy, I'm Mark, a hardware design engineer in-the-making! I generally work on d
 
 Projects I'm currently working on:
  - The Δelta βeta αrchives
+ - Lab API
+ - Learning how to code in asm
