@@ -27,7 +27,7 @@
   <a href="https://www.reddit.com/user/324Hz"/><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Reddit.png?raw=true" width=40</a>
 </p>
 
-Howdy, I'm Mark, a hardware design engineer in-the-making! I generally work on designing PCBs for side projects, and programming web/application interfaces to interact with each other. View my most recent website project: <a href="https://9662e.dev/deltabetaarchives">the Δelta βeta αrchives</a> or check out tau embedded systems <a href="https://9662e.dev/tauembeddedsystems">here</a>!
+Howdy, I'm Mark, a hardware design engineer in-the-making! I generally work on designing PCBs for side projects, making interfaces for those PCB projects, or just general web/software development. View my most recent website project: <a href="https://9662e.dev/deltabetaarchives">the Δelta βeta αrchives</a>! More information is coming in relation to the OS kernel I'm developing, so stay tuned!
 
 Projects I'm currently working on:
  - The Δelta βeta αrchives
