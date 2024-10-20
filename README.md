@@ -32,4 +32,4 @@ Howdy, I'm Mark, a hardware design engineer in-the-making! I generally work on d
 Projects I'm currently working on:
  - The Δelta βeta αrchives
  - devOS (information TBA)
- - Learning how to code in assembly (x86_64 win32 api with MASM)
+ - Re-vamping my main website
