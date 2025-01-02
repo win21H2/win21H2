@@ -14,11 +14,10 @@
 
 <p align="center">
   <a href="https://github.com/FitDevs-withKat"><img src="https://user-images.githubusercontent.com/92825997/195959293-a02e7dca-014f-4de7-9bd7-32200005276c.png" width="150"></a>
-  <a href="https://github.com/Syknapse/Contribute-To-This-Project"><img src="https://user-images.githubusercontent.com/92825997/227754096-bcb46935-fe6f-475b-93d9-0a7f6eae2cae.png" width="150"></a>
 </p>
 
 <p align="center">
-  | <a href="https://github.com/FitDevs-withKat">#FitDevs</a> |  <a href="https://github.com/Syknapse/Contribute-To-This-Project">Contribute-To-This-Project</a> |
+  | <a href="https://github.com/FitDevs-withKat">#FitDevs</a> |
 </p>
 
 <p align="center">
@@ -27,9 +26,17 @@
   <a href="https://www.reddit.com/user/324Hz"/><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Reddit.png?raw=true" width=40</a>
 </p>
 
-Howdy, I'm Mark, a hardware design engineer in-the-making! I generally work on designing PCBs for side projects, making interfaces for those PCB projects, or just general web/software development. View my most recent website project: <a href="https://9662e.dev/deltabetaarchives">the Δelta βeta αrchives</a>! More information is coming in relation to the OS kernel I'm developing, so stay tuned!
+Hey there, I'm Mark, a hardware design engineer in the making, currently working on low-level programming and FPGA circuits, in preperation for university. So far, I've made an attempt at developing an OS kernel from scratch, though I found it quite difficult to do without prior knowledge about how things are executed in an OS, hence why I'm now working with Verilog on tau, and why development on DevOS has temporarily stopped.
 
-Projects I'm currently working on:
- - The Δelta βeta αrchives
- - RRT (Regional Rail Tracker)
- - Re-vamping my main website
+Here's some projects I've completed/am currently working on:
+
+### Completed
+- <a href="https://github.com/win21H2/Project-Silent-Willow">Project Silent Willow</a>
+- <a href="https://github.com/win21H2/my-computer-details-cli">my-computer-details</a>
+- Regional Rail Tracker (private, due to API key integration)
+- tau-w (private, due to closed-source nature of the project)
+
+### Working on
+ - <a href="https://9662e.dev/the_delta_beta_archives">The Delta Beta Archives</a>
+ - <a href="https://github.com/win21H2/tauv2">tau/tauv2</a>
+ - <a href="https://github.com/win21H2/devos">DevOS (temporary pause)</a>
